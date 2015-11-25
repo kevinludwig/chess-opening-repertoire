@@ -60,6 +60,26 @@
                         "name": "5. ...Bg4",
                         "pgn": "albin-bg4",
                         "initial": 10
+                    },
+                    {
+                        "name": "5. ...Bf5",
+                        "pgn": "albin-bf5",
+                        "initial": 10
+                    },
+                    {
+                        "name": "5. ...Be6",
+                        "pgn": "albin-be6",
+                        "initial": 10
+                    },
+                    {
+                        "name": "5. ...Nge7",
+                        "pgn": "albin-nge7",
+                        "initial": 10
+                    },
+                    {
+                        "name": "5. ...Qe7",
+                        "pgn": "albin-qe7",
+                        "initial": 10
                     }
                 ]
             },
@@ -76,6 +96,60 @@
                         "name": "9. ...Nc6 10. d5 Bxc3 11. Bd2 Bxd2 12. Qxd2",
                         "pgn": "grunfeld-exchange-nc6-d5-bxc3",
                         "initial": 24
+                    }
+                ]
+            },
+            {
+                "name": "Black Knights Tango",
+                "fen": "r1bqkb1r/pppppppp/2n2n2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+                "v": [
+                    {
+                        "name": "3. ...e6 4. Nc3 Bb4",
+                        "pgn": "tango-e6-nc3-bb4",
+                        "initial": 6
+                    }
+                ]
+            },
+            {
+                "name": "Symmetrical Defense",
+                "fen": "rnbqkbnr/pp2pppp/8/2pP4/3P4/8/PP2PPPP/RNBQKBNR b KQkq - 0 3",
+                "v": [
+                    {
+                        "name": "3. ...Nf6",
+                        "pgn": "symmetrical-nf6",
+                        "initial": 6
+                    },
+                    {
+                        "name": "3. ...Qxd5",
+                        "pgn": "symmetrical-qxd5",
+                        "initial": 6
+                    }
+                ]
+            },
+            {
+                "name": "Budapest Gambit",
+                "fen": "rnbqkb1r/pppp1ppp/5n2/4P3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3",
+                "v": [
+                    {
+                        "name": "3. ...Ng4",
+                        "pgn": "budapest-ng4",
+                        "initial": 6
+                    },
+                    {
+                        "name": 3. ...Ne4",
+                        "pgn": "budapest-ne4",
+                        "initial": 6
+                    }
+                ]
+            },
+            {
+                "name": "Queens Gambit, Chigorin Defense",
+                "fen": "r1bqkbnr/ppp1pppp/2n5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+                "v": [
+                    {
+                        "name": "3. ...Bg4 4. cxd5 Bxf3",
+                        "pgn": "chigorin-bg4",
+                        "initial": 6
                     }
                 ]
             }
