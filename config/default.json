@@ -177,6 +177,37 @@
                         "initial": 6
                     }
                 ]
+            },
+            {
+                "name": "Modern Benoni",
+                "fen": "rnbq1rk1/pp3pbp/3p1np1/2pP4/4P3/2NB1N1P/PP3PP1/R1BQK2R b KQ - 0 9",
+                "v": [
+                    {
+                        "name": "9. ...b5",
+                        "pgn": "modern-benoni-b5",
+                        "initial": 18
+                    },
+                    {
+                        "name": "9. ...Nh5",
+                        "pgn": "modern-benoni-nh5",
+                        "initial": 18
+                    },
+                    {
+                        "name": "9. ...a6",
+                        "pgn": "modern-benoni-a6",
+                        "initial": 18
+                    },
+                    {
+                        "name": "9. ...b6",
+                        "pgn": "modern-benoni-b6",
+                        "initial": 18
+                    },
+                    {
+                        "name": "9. ...Na6",
+                        "pgn": "modern-benoni-na6",
+                        "initial": 18
+                    }
+                ]
             }
         ]
     }

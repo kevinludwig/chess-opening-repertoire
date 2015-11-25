@@ -42,21 +42,6 @@ Baltic Defense*
     4. ...Qd7 5. Qxd7+ Nxd7 6. Rxb1 Ngf6
     4. ...c6 5. Rxb1 Qxd5 7. f3 Nf6 8. e4 Nxe4 9. Bc4 Qf5 10. fxe4 Qxe4+ 11. Ne2 Qxb1 12. Qb3 +/-)
 
-Modern Benoni*
-1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. h3 0-0 9. Nf3
-
-    9. ...b6 10. 0-0 Ba6 11. Re1 Bxd3 12. Qxd3 Nbd7 13. Bf4 Ne8 14. a4 a6 15. Rad1 f6 16. Rb1 += {planning b4, with holes on e6 and c6}
-    9. ...Na6 10. 0-0 Nc7 11. Re1 a6 12. a4 Rb8 13. Bf1 b5 14. e5
-    9. ...Nh5 10. 0-0 Nd7 11. Bg5 Bf6 12. Bh6 Re8 13. Be2 a6 14. a4 b6 15. Nd2 Ng7 {black can't allow the knight to be pushed back without white conceding to g4} 16. Nc4 +=
-    9. ...a6 10. a4 Nbd7 11. 0-0 Re8 12. Bf4 Qc7 13. Re1 += {black lacks counterplay}
-    9. ...b5 10. Bxb5 Nxe4 11. Nxe4 Qa5+ 12. Nfd2 Qxb5 13. Nxd6 Qa6 14. N2c4 Nd7 15. 0-0
-
-        15. ...Ne5 16. Nxc8 Raxc8 17. Nxe5 Bxe5
-        15. ...Nb6 16. Nxb6 Qxb6 17. Nxc8 Raxc8 18. Rb1 Rfd8 19. Bf4 Qb7 20. d6 Bf8 21. Qd3 Bxd6 22. Bxd6 Rc6 23. Rfd1
-            23. ...Rcxd6 24. Qxd6 Rxd6 25. Rxd6 c4 26. Rd2 c3 27. Rc2 Qe4 28. Rbc1 cxb2 29. Rxb2 +=
-            23. ...Qd7 24. Qa3 Rxd6 25. Rxd6 Qxd6 26. Qxa7 +=
-        15. ...Nb6 16. Nxb6 axb6 17. Qf3 b5 18. Ne4 Bxb2 19. Nxc5 Qa3 20. Qxa3 Bxa3 21. Ne4 +=
-
 Schmid Benoni
 
 Old Benoni
