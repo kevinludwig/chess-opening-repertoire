@@ -65,25 +65,6 @@ Benko Gambit
 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. e4 Bxf1 9. Kxf1 Bg7 10. g3 0-0 11. Kg2 Nbd7
 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. g3 Bg7 9. Bg2 Nbd7 10. Rb1
 
-Grunfeld Exchange
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. cxd3 Bg7 7. Nf3 c5 8. Rb1! 0-0 9. Be2
-    9. ...Nc6 10. d5
-        10. ...Ne5 11. Nxe5 Bxe5 12. Qd2
-
-        10. ...Bxc3+ 11. Bd2 Bxd2+ 12. Qxd2
-            12. ...Nd4 13. Nxd4 cxd4 14. Qxd4 Qa5+ 15. Qd2 Qxd2+ 16. Kxd2 +=
-            12. ...Nb8
-            12. ...Na5 13. h4 Bg4 14. Ng5 Bxe2 15. Kxe2
-                15. ...e6 16. h5 Nc4 (16. ...h6? 17. Nh7 +-) 17. Qc1 exd5 18. hxg6 fxg6 19. Rxh7 Qf6 20. f4 +/-
-                15. ...h6
-
-    9. ...cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. 0-0
-        12. ...Qe6 13. Qc2 Qc6 14. Qd3
-        12. ...Bg4!
-        12. ...b6
-        12. ...a5
-        12. ...Nbd7
-
 KID Bayonet
 1. d4 d5 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 0-0 6. Be2 e5 7. 0-0
     7. ...Na6
