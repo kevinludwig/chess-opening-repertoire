@@ -96,6 +96,31 @@
                         "name": "9. ...Nc6 10. d5 Bxc3 11. Bd2 Bxd2 12. Qxd2",
                         "pgn": "grunfeld-exchange-nc6-d5-bxc3",
                         "initial": 24
+                    },
+                    {
+                        "name": "9. ...cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. 0-0 Nbd7",
+                        "pgn": "grunfeld-exchange-qxa2-nbd7",
+                        "initial": 24
+                    },
+                    {
+                        "name": "9. ...cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. 0-0 Qe6",
+                        "pgn": "grunfeld-exchange-qxa2-qe6",
+                        "initial": 24
+                    },
+                    {
+                        "name": "9. ...cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. 0-0 a5",
+                        "pgn": "grunfeld-exchange-qxa2-a5",
+                        "initial": 24
+                    },
+                    {
+                        "name": "9. ...cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. 0-0 Bg4!",
+                        "pgn": "grunfeld-exchange-qxa2-bg4",
+                        "initial": 24
+                    },
+                    {
+                        "name": "9. ...cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. 0-0 b6",
+                        "pgn": "grunfeld-exchange-qxa2-b6",
+                        "initial": 24
                     }
                 ]
             },
