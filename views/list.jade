@@ -1,0 +1,20 @@
+extends layout
+
+mixin make-board(board)
+    .preview
+        each x in range
+            each y in range
+                -var className = (((x + y) % 2) === 0 ? 'white' : 'black') + 'Square';
+                .preview-square(class=className)
+                    -var val = board[(x*8)+y];
+                    if val
+                        img.img-responsive(src=val)
+
+block content
+    .col-xs-12.col-lg-6
+        .thumbnail: +make-board(item.board)
+        .caption: p= item.name
+    .col-xs-12.col-lg-6
+        .list-group
+            each v in item.v
+                a.list-group-item(href="/detail/" + v.pgn)= v.name

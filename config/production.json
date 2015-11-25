@@ -1,0 +1,7 @@
+{
+    "port":3000,
+    "useCluster": false,
+    "logger": {
+        "level": "warn"
+    }
+}

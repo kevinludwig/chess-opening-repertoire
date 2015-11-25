@@ -1,0 +1,40 @@
+doctype html
+html(lang='en')
+    head
+        title=title
+        meta(name='viewport', content='width=device-width, initial-scale=1.0')
+        link(rel='stylesheet', type='text/css', href='/css/bootstrap.min.css')
+        link(rel='stylesheet', type='text/css', href='/css/bootstrap-theme.min.css')
+        link(rel='stylesheet', type='text/css', href='/css/pgn4web-font-LiberationSans.css')
+        link(rel='stylesheet', type='text/css', href='/css/pgn4web-font-ChessSansPiratf.css')
+        link(rel='stylesheet', type='text/css', href='/css/app.css')
+    body
+        nav.navbar.navbar-default.navbar-static-top(role='navigation')
+            .container-fluid
+                .navbar-header
+                    button.navbar-toggle.collapsed(type='button', data-toggle='collapse', data-target='#menu')
+                        span.icon-bar
+                        span.icon-bar
+                        span.icon-bar
+                    .row: a.navbar-brand(href='/') MCO
+                    .row: .text-muted My Chess Openings
+
+        #content.container-fluid
+            block content
+
+        footer.navbar.navbar-default.navbar-static-bottom
+            .container-fluid
+                .row.text-muted.text-center
+                    p
+                        span= "chess viewer courtesy of "
+                        a(href="http://pgn4web.casaschi.net", target="_blank") pgn4web
+                    strong= "|"
+                    p Kevin Ludwig &copy; 2015, All rights reserved.
+
+        script(src='/js/jquery-1.11.2.min.js')
+        script(src='/js/bootstrap.min.js')
+        script(src='/js/pgn4web.js')
+        script(src='/js/chess-informant-NAG-symbols.js')
+        script.
+            var initialHalfMove = #{initial};
+        script(src='/js/app.js')

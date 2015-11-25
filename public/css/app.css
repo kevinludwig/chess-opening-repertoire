@@ -1,0 +1,127 @@
+.navbar .row {
+    margin-left:20px;
+}
+#content {
+    margin-bottom: 20px;
+}
+
+footer {
+    padding-top:5px;
+    padding-bottom:15px;
+    background-color:rgb(250,250,250);
+
+    /* cross browser linear gradient hack */
+    background-image:-webkit-gradient(linear,center top, center bottom,from(#f2f2f2),to(#f2f2f2));
+    background-image:-moz-linear-gradient(center top, rgb(242,242,242),rgb(255,255,255));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f2f2f2',endColorstr='#ffffff');
+
+    background-repeat:repeat-x;
+}
+footer p {
+    display: inline-block;
+    margin-right:5px;
+    margin-left:5px;
+}
+
+/* figurine movetext */
+body {
+    font-family: 'pgn4web Liberation Sans', sans-serif;
+}
+
+.variation-wrap {
+    padding-left:10px;
+}
+
+.move, .variation, .commentMove {
+    font-family: 'pgn4web ChessSansPiratf', 'pgn4web Liberation Sans', sans-serif;
+}
+.moveOn {
+    font-weight:bold;
+}
+.whiteSquare, .highlightWhiteSquare {
+    background-color:#dcdcdc;
+}
+.blackSquare, .highlightBlackSquare {
+    background-color:#708090;
+}
+
+#game-board-nav {
+    padding-left:20px;
+    margin-bottom:0;
+    background:transparent;
+}
+#game-text-container {
+    background-color:rgba(224,224,224,0.4);
+
+    -moz-box-shadow: 3px 3px 4px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 3px 3px 4px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 4px rgba(0,0,0,0.5);
+
+    /* cross browser rounded corners */
+    -moz-border-radius: 10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+
+    /* cross browser background clip */
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+
+    border: 1px solid rgba(0,0,0,0.25);
+
+    padding-top:15px;
+    padding-bottom:35px;
+    padding-right:15px;
+    padding-left: 15px;
+
+    /* this gives it height(!) */
+    overflow:hidden;
+}
+
+/* button bar fixed to width of game board */
+#button-bar {
+    margin-top: 5px;
+    margin-bottom:20px;
+    max-width: calc(100% * 8);
+}
+#GameText {
+    text-decoration:none;
+    text-align:justify;
+}
+#GameText .move {
+    color: #696969;
+}
+
+/* list preview styling */
+.preview {
+    width:100%;
+}
+.preview-square {
+    float:left;
+    width: calc(100%/8);
+    height:calc(100%/8);
+    padding:0;
+    margin:0;
+}
+
+.preview img {
+    height: 100%;
+    width: 100%;
+}
+
+#GameBoard table, #GameBoard tbody, #GameBoard tr, #GameBoard td {
+    display:block;
+}
+#GameBoard {
+    width:100%;
+}
+#GameBoard td {
+    float:left;
+    width: calc(100%/8);
+    padding:0;
+    margin:0;
+}
+#GameBoard td img {
+    width: 100%;
+    height: 100%;
+}

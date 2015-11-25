@@ -1,0 +1,25 @@
+extends layout
+
+mixin button-bar()
+    #button-bar.btn-group.btn-group-justified(role='group')
+        .btn-group: button#startButton.btn.btn-default(title="go to game start")
+            span.glyphicon.glyphicon-fast-backward
+        .btn-group: button#backButton.btn.btn-default(title="move back")
+            span.glyphicon.glyphicon-backward
+        .btn-group: button#autoplayButton.btn.btn-default(title="autoplay")
+            span.glyphicon.glyphicon-play
+        .btn-group: button#forwardButton.btn.btn-default(title="move forward")
+            span.glyphicon.glyphicon-forward
+        .btn-group: button#endButton.btn.btn-default(title="go to game end")
+            span.glyphicon.glyphicon-fast-forward
+
+block content
+    .container
+        .col-xs-12.col-sm-7.col-md-6
+            #GameBoard
+            .clearfix
+            +button-bar()
+        .col-xs-12.col-sm-5.col-md-6
+            #game-text-container: #GameText
+        form(style="display:none;")
+            textarea#pgnText(style="display:none;")= pgnText
