@@ -265,6 +265,22 @@
                         "initial": 12
                     }
                 ]
+            },
+            {
+                "name": "Baltic Defense",
+                "fen": "rn1qkbnr/ppp1pppp/8/3P4/Q2P4/8/PP2PPPP/RbB1KBNR b KQkq - 0 4",
+                "v": [
+                    {
+                        "name": "4. ...Qd7 5. Qxd7+ Nxd7 6. Rxb1 Ngf6",
+                        "pgn": "baltic-qd7",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. ...c6 5. Rxb1 Qxd5",
+                        "pgn": "baltic-c6",
+                        "initial": 10
+                    }
+                ]
             }
         ]
     }
