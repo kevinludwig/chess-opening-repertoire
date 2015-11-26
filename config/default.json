@@ -312,6 +312,32 @@
                         "initial": 16
                     }
                 ]
+            },
+            {
+                "name": "Benko Gambit Accepted",
+                "fen": "r2qk2r/3nppbp/b2p1np1/2pP4/8/2N2NP1/PP2PPBP/1RBQK2R b Kkq - 0 10",
+                "v": [
+                    {
+                        "name": "10. ...Nb6",
+                        "pgn": "benko-gambit-nb6",
+                        "initial": 20
+                    },
+                    {
+                        "name": "10. ...0-0 11. 0-0 Qa5 12. Bd2 Rfd8",
+                        "pgn": "benko-gambit-qa5-rfd8",
+                        "initial": 24
+                    },
+                    {
+                        "name": "10. ...0-0 11. 0-0 Qa5 12. Bd2 Bb7",
+                        "pgn": "benko-gambit-qa5-bb7",
+                        "initial": 24
+                    },
+                    {
+                        "name": "10. ...0-0 11. 0-0 Qa5 12. Bd2 Nb6",
+                        "pgn": "benko-gambit-qa5-nb6",
+                        "initial": 24
+                    }
+                ]
             }
         ]
     }
