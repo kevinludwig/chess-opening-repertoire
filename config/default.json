@@ -281,6 +281,37 @@
                         "initial": 10
                     }
                 ]
+            },
+            {
+                "name": "Queens Gambit Declined, Marshall Gambit",
+                "fen": "rnb1k1nr/pp3ppp/2p1p3/8/1BP1q3/8/PP2BPPP/R2QK1NR b KQkq - 0 8",
+                "v": [
+                    {
+                        "name": "8. ...Qxg2",
+                        "pgn": "marshall-gambit-qxg2",
+                        "initial": 16
+                    },
+                    {
+                        "name": "8. ...Na6",
+                        "pgn": "marshall-gambit-na6",
+                        "initial": 16
+                    },
+                    {
+                        "name": "8. ...Nd7",
+                        "pgn": "marshall-gambit-nd7",
+                        "initial": 16
+                    },
+                    {
+                        "name": "8. ...Ne7",
+                        "pgn": "marshall-gambit-ne7",
+                        "initial": 16
+                    },
+                    {
+                        "name": "8. ...c5",
+                        "pgn": "marshall-gambit-c5",
+                        "initial": 16
+                    }
+                ]
             }
         ]
     }
