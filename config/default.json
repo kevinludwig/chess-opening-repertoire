@@ -208,6 +208,32 @@
                         "initial": 18
                     }
                 ]
+            },
+            {
+                "name": "Nimzo Indian",
+                "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PPQ1PPPP/R1B1KBNR b KQkq - 0 4",
+                "v": [
+                    {
+                        "name": "4. ...d5",
+                        "pgn": "nimzo-indian-d5",
+                        "initial": 8
+                    },
+                    {
+                        "name": "4. ...c5",
+                        "pgn: "nimzo-indian-c5",
+                        "initial": 8
+                    },
+                    {
+                        "name": "4. ...0-0",
+                        "pgn": "nimzo-indian-00",
+                        "initial": 8
+                    },
+                    {
+                        "name": "4. ...Nc6",
+                        "pgn": "nimzo-indian-nc6",
+                        "initial": 8
+                    }
+                ]
             }
         ]
     }
