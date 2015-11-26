@@ -234,6 +234,37 @@
                         "initial": 8
                     }
                 ]
+            },
+            {
+                "name": "Kings Indian Defense",
+                "fen": "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 6",
+                "v": [
+                    {
+                        "name": "6. ...e5 7. 0-0 Nc6 8. d5 Ne7 9. b4",
+                        "pgn": "kings-indian-bayonet",
+                        "initial": 18
+                    },
+                    {
+                        "name": "6. ...e5 7. 0-0 Na6",
+                        "pgn": "kings-indian-na6",
+                        "initial": 14
+                    },
+                    {
+                        "name": "6. ...e5 7. 0-0 exd4",
+                        "pgn": "kings-indian-exd4",
+                        "initial": 14
+                    },
+                    {
+                        "name": "6. ...e5 7. 0-0 Nbd7",
+                        "pgn": "kings-indian-nbd7",
+                        "initial": 14
+                    },
+                    {
+                        "name": "6. ...Bg4",
+                        "pgn": "kings-indian-bg4",
+                        "initial": 12
+                    }
+                ]
             }
         ]
     }
