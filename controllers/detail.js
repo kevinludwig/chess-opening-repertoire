@@ -2,24 +2,35 @@
 var fs = require('fs'),
     config = require('config');
 
-module.exports = function(req, res) {
-    var all = config.repertoire.white.concat(config.repertoire.black),
-        g = null;
-    all.forEach(function(opening) {
+function match(list, id) {
+    var g = null;
+    list.forEach(function(opening) {
         opening.v.forEach(function(v) {
-            if (v.pgn === req.params.id) {
+            if (v.pgn === id) {
                 g = v;
                 return;
             }
         });
         if (g) return;
     });
+    return g;
+}
+
+module.exports = function(req, res) {
+    var g = null,
+        color = 'white';
+
+    g = match(config.repertoire.white, req.params.id);
+    if (!g) {
+        g = match(config.repertoire.black, req.params.id);
+        color = 'black';
+    }
 
     if (g === null) {
         res.status(404).send('ID not found');
     }
     else {
-        fs.readFile('./pgn/' + req.params.id + '.pgn', 'utf-8', function(err, data) {
+        fs.readFile('./pgn/' + color + '/' + req.params.id + '.pgn', 'utf-8', function(err, data) {
             if (err) {
                 res.status(404).send('PGN not found');
             }
