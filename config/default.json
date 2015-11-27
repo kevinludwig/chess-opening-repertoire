@@ -338,6 +338,32 @@
                         "initial": 24
                     }
                 ]
+            },
+            {
+                "name": "Queens Gambit Accepted",
+                "fen": "rnbqkb1r/1p3ppp/p3pn2/2p5/3P4/1B2PN2/PP3PPP/RNBQ1RK1 b kq - 0 7",
+                "v": [
+                    {
+                        "name": "7. ...b5",
+                        "pgn": "queens-gambit-accepted-b5",
+                        "initial": 14
+                    },
+                    {
+                        "name": "7. ...Nc6",
+                        "pgn": "queens-gambit-accepted-nc6",
+                        "initial": 14
+                    },
+                    {
+                        "name": "7. ...Nbd7",
+                        "pgn": "queens-gambit-accepted-nbd7",
+                        "initial": 14
+                    },
+                    {
+                        "name": "7. ...b6",
+                        "pgn": "queens-gambit-accepted-b6",
+                        "initial": 14
+                    }
+                ]
             }
         ]
     }
