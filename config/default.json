@@ -364,6 +364,17 @@
                         "initial": 14
                     }
                 ]
+            },
+            {
+                "name": "Semi-Tarrasch",
+                "fen": "rnbqkb1r/pp3ppp/4p3/8/3PP3/5N2/P4PPP/R1BQKB1R b KQkq - 0 8",
+                "v": [
+                    {
+                        "name": "8. ...Bb4+",
+                        "pgn": "semi-tarrasch-bb4",
+                        "initial": 16
+                    }
+                ]
             }
         ],
         "black": [
