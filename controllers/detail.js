@@ -3,8 +3,9 @@ var fs = require('fs'),
     config = require('config');
 
 module.exports = function(req, res) {
-    var g = null;
-    config.repertoire.openings.forEach(function(opening) {
+    var all = config.repertoire.white.concat(config.repertoire.black),
+        g = null;
+    all.forEach(function(opening) {
         opening.v.forEach(function(v) {
             if (v.pgn === req.params.id) {
                 g = v;

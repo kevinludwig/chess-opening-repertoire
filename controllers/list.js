@@ -5,7 +5,8 @@ var _ = require('underscore'),
     util = require('../lib/util');
 
 module.exports = function(req, res) {
-    var opening = config.repertoire.openings.filter(function(o) {
+    var all = config.repertoire.white.concat(config.repertoire.black);
+    var opening = all.filter(function(o) {
         return slugify(o.name) === req.params.id;
     });
     if (!opening.length) res.send(404);

@@ -4,9 +4,9 @@ var _ = require('underscore'),
     util = require('../lib/util');
 
 module.exports = function(req, res) {
-    var results = config.repertoire.openings;
     res.render('index', {
-        results: results.map(util.toObject),
+        white: config.repertoire.white.map(util.toObject),
+        black: config.repertoire.black.map(util.toObject),
         initial: 0,
         range: _.range(8)
     });

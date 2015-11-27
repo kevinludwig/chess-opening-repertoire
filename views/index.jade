@@ -10,8 +10,19 @@ mixin make-board(board)
                     if val
                         img.img-responsive(src=val)
 
-block content
+mixin tab-content(results)
     for item in results
         .col-xs-6.col-sm-4.col-md-3.col-lg-2
             a.thumbnail(href='/list/' + item.id): +make-board(item.board)
             .caption: p= item.name
+
+block content
+    ul.nav.nav-tabs(role="tablist")
+        li.active(role="presentation"): a(href="#white", aria-controls="white", role="tab", data-toggle="tab") White
+        li(role="presentation"): a(href="#black", aria-controls="black", role="tab", data-toggle="tab") Black
+
+    .tab-content
+        #white.tab-pane.active(role="tabpanel")
+            +tab-content(white)
+        #black.tab-pane(role="tabpanel")
+            +tab-content(black)
