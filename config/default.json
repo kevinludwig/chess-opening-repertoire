@@ -179,6 +179,22 @@
                 ]
             },
             {
+                "name": "Schmid Benoni",
+                "fen": "rnbqk2r/pp2ppbp/3p1np1/1BpP4/4PP2/2N5/PPP3PP/R1BQK1NR b KQkq - 0 6",
+                "v": [
+                    {
+                        "name": "6. ...Nfd7",
+                        "pgn": "schmid-benoni-nfd7",
+                        "initial": 12
+                    },
+                    {
+                        "name": "6. ...Bd7",
+                        "pgn": "schmid-benoni-bd7",
+                        "initial": 12
+                    }
+                ]
+            },
+            {
                 "name": "Modern Benoni",
                 "fen": "rnbq1rk1/pp3pbp/3p1np1/2pP4/4P3/2NB1N1P/PP3PP1/R1BQK2R b KQ - 0 9",
                 "v": [
