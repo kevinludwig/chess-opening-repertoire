@@ -375,6 +375,17 @@
                         "initial": 16
                     }
                 ]
+            },
+            {
+                "name": "Von Hennig-Schara Gambit",
+                "fen": "r3k2r/pp1bqppp/2n2n2/2b5/8/2N1PN2/PP2BPPP/R1BQK2R b KQkq - 0 11",
+                "v": [
+                    {
+                        "name": "11. ...0-0-0",
+                        "pgn": "von-hennig-schara-gambit-000",
+                        "initial": 22
+                    }
+                ]
             }
         ],
         "black": [
