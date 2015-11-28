@@ -402,6 +402,32 @@
                         "initial": 22
                     }
                 ]
+            },
+            {
+                "name": "Tarrasch Defense",
+                "fen": "r1bqkbnr/pp3ppp/2n5/2pp4/3P4/2N2NP1/PP2PP1P/R1BQKB1R b KQkq - 0 6",
+                "v": [
+                    {
+                        "name": "6. ...c4 (Sweedish variation)",
+                        "pgn": "tarrasch-c4-sweedish",
+                        "initial": 12
+                    },
+                    {
+                        "name": "7. Bg2 Be7 8. 0-0 0-0 9. Bg5 cxd4",
+                        "pgn": "tarrasch-cxd4",
+                        "initial": 18
+                    },
+                    {
+                        "name": "7. Bg2 Be7 8. 0-0 0-0 9. Bg5 c4",
+                        "pgn": "tarrasch-c4",
+                        "initial": 18
+                    },
+                    {
+                        "name": "7. Bg2 Be7 8. 0-0 0-0 9. Bg5 Be6",
+                        "pgn": "tarrasch-be6",
+                        "initial": 18
+                    }
+                ]
             }
         ],
         "black": [
