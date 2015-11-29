@@ -500,6 +500,48 @@
                 "v": [
 
                 ]
+            },
+            {
+                "name": "English Four Knights, kingside fianchetto",
+                "fen": "r1bqk2r/pppp1ppp/2n2n2/4p3/1bP5/2N2NP1/PP1PPP1P/R1BQKB1R w KQkq - 0 5",
+                "v": [
+
+                ]
+            },
+            {
+                "name": "English Four Knights, 4. e3",
+                "fen": "r1bqk2r/pppp1ppp/2n2n2/4p3/1bP5/2N1PN2/PP1P1PPP/R1BQKB1R w KQkq - 0 5",
+                "v": [
+
+                ]
+            },
+            {
+                "name": "English Four Knights, 4. d4",
+                "fen": "r1bqk2r/pppp1ppp/2n2n2/8/1bPN4/2N5/PP2PPPP/R1BQKB1R w KQkq - 0 6",
+                "v": [
+
+                ]
+            },
+            {
+                "name": "Enlish Four Knights, Capablanca variation",
+                "fen": "r1bqk2r/pppp1ppp/2n2n2/4p3/1bP5/2NP1N2/PP2PPPP/R1BQKB1R w KQkq - 0 5",
+                "v": [
+
+                ]
+            },
+            {
+                "name": "English Four Knights, Marini variation",
+                "fen": "r1bqkb1r/ppp2ppp/2n5/3np3/8/P1N2N2/1P1PPPPP/R1BQKB1R w KQkq - 0 6",
+                "v": [
+
+                ]
+            },
+            {
+                "name": "English Four Knights, Nimzovich variation",
+                "fen": "r1bqk2r/pppp1ppp/2n2n2/4p3/1bP1P3/2N2N2/PP1P1PPP/R1BQKB1R w KQkq - 0 5",
+                "v": [
+
+                ]
             }
         ]
     }
