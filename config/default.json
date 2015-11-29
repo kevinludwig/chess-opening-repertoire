@@ -428,6 +428,48 @@
                         "initial": 18
                     }
                 ]
+            },
+            {
+                "name": "Queen's Gambit Declined, Exchange variation",
+                "fen": "rnbqkb1r/ppp2ppp/5n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR b KQkq - 0 5",
+                "v": [
+                    {
+                        "name": "5. ...c6 6. e3 Bf5",
+                        "pgn": "queens-gambit-declined-exchange-bf5",
+                        "initial": 12
+                    },
+                    {
+                        "name": "5. ...Be7 6. e3 0-0 7. Bd3 Nbd7 8. Nge2 0-0 9. Re8",
+                        "pgn": "queens-gambit-declined-exchange-nge2",
+                        "initial": 18
+                    },
+                    {
+                        "name": "5. ...c6 6. e3 Bd6",
+                        "pgn": "queens-gambit-declined-exchange-bd6",
+                        "initial": 16
+                    },
+                    {
+                        "name": "5. ...c6 6. e3 Be7 7. Bd3 Nbd7 8. Nge2 Nh5",
+                        "pgn": "queens-gambit-declined-exchange-nh5",
+                        "initial": 16
+                    }
+                ]
+            },
+            {
+                "name": "Queen's Gambit Declined, Alatortsev",
+                "fen": "rnbqk1nr/ppp1bppp/8/3p4/3P1B2/2N5/PP2PPPP/R2QKBNR b KQkq - 0 5",
+                "v": [
+                    {
+                        "name": "5. ...c6 6. e3 Bf5",
+                        "pgn": "alatortsev-c6-bf5",
+                        "initial": 12
+                    },
+                    {
+                        "name": "5. ...Nf6 6. e3 Bf5",
+                        "pgn": "alatortsev-nf6-bf5",
+                        "initial": 12
+                    }
+                ]
             }
         ],
         "black": [
