@@ -484,7 +484,11 @@
                 "name": "Scotch Gambit",
                 "fen": "r1bqk1nr/pppp1ppp/2n5/2b5/2BpP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5",
                 "v": [
-
+                    {
+                        "name": "5. ...Ng5",
+                        "pgn": "scotch-gambit-ng5",
+                        "initial": 10
+                    }
                 ]
             },
             {
