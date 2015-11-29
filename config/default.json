@@ -477,7 +477,51 @@
                 "name": "Scotch Game",
                 "fen": "r1bqk1nr/pppp1ppp/2n5/2b5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5",
                 "v": [
-
+                    {
+                        "name": "5. Nb3",
+                        "pgn": "scotch-game-nb3",
+                        "initial": 10
+                    },
+                    {
+                        "name": "5. Nxc6",
+                        "pgn": "scotch-game-nxc6",
+                        "initial": 10
+                    },
+                    {
+                        "name": "5. Nf5",
+                        "pgn": "scotch-game-nf5",
+                        "initial": 10
+                    },
+                    {
+                        "name": "5. Be3 Qf6 6. Nb5",
+                        "pgn": "scotch-game-be3-nb5",
+                        "initial": 12
+                    },
+                    {
+                        "name": "5. Be3 Qf6 6. c3 Nge7 7. Bc4",
+                        "pgn": "scotch-game-be3-bc4",
+                        "initial": 14
+                    },
+                    {
+                        "name": "5. Be3 Qf6 6. c3 Nge7 7. g3",
+                        "pgn": "scotch-game-be3-g3",
+                        "initial": 14
+                    },
+                    {
+                        "name": "5. Be3 Qf6 6. c3 Nge7 7. Be2",
+                        "pgn": "scotch-game-be3-be2",
+                        "initial": 14
+                    },
+                    {
+                        "name": "5. Be3 Qf6 6. c3 Nge7 7. Nc2",
+                        "pgn": "scotch-game-be3-nc2",
+                        "initial": 14
+                    },
+                    {
+                        "name": "5. Be3 Qf6 6. c3 Nge7 7. Qd2",
+                        "pgn": "scotch-game-be3-qd2",
+                        "initial": 14
+                    }
                 ]
             },
             {
@@ -485,7 +529,7 @@
                 "fen": "r1bqk1nr/pppp1ppp/2n5/2b5/2BpP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5",
                 "v": [
                     {
-                        "name": "5. ...Ng5",
+                        "name": "5. Ng5",
                         "pgn": "scotch-gambit-ng5",
                         "initial": 10
                     }
