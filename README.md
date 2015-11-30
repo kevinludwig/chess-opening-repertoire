@@ -12,7 +12,11 @@ I'm hosting it here: (http://chess-endgames.rhcloud.com)
 
 # TODO
 
-Add content
+Nimzo Indian
+Kings Indian (Na6)
+Semi Slav
+Dutch
+Marshall Gambit
 
 # PGN4WEB Modifications
 
