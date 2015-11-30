@@ -604,6 +604,26 @@
                         "name": "4. g3 Bb4",
                         "pgn": "english-four-knights-g3",
                         "initial": 8
+                    },
+                    {
+                        "name": "4. d3 Bb4",
+                        "pgn": "english-four-knights-d3",
+                        "initial": 8
+                    },
+                    {
+                        "name": "4. d4 exd4 5. Nxd4 Bb4",
+                        "pgn": "english-four-knights-d4",
+                        "initial": 8
+                    },
+                    {
+                        "name": "4. a3 d5",
+                        "pgn": "english-four-knights-a3",
+                        "initial": 8
+                    },
+                    {
+                        "name": "4. e4 Bb4",
+                        "pgn": "english-four-knights-e4",
+                        "initial": 8
                     }
                 ]
             }
