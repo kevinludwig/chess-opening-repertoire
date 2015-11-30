@@ -1,1 +1,6 @@
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 0-0 5. Nf3 d6 6. Be2 e5 7. 0-0 exd4
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 0-0 5. Nf3 d6 6. Be2 e5 7. 0-0 exd4 8. Nxd4 Re8 9. f3 c6
+(9. ...Nh5 10. g4 Nf6 11. Be3 {white has prevented f5})
+(9. ...Nc6 10. Be3 Nh5 11. Qd2 Nxd4 (11. ...f5 12. Nxc6 bxc6 13. c5 $1 d5 14. Bg5) 12. Bxd4 Nf4 13. Rfd1 Qg5 14. Bf1 Bxd4+ 15. Qxd4 +=)
+10. Kh1 d5
+(10. ...Ndb7 11. Bg5 h6 12. Bh4 Qb6 13. Nb3 {white has restrained d5})
+11. cxd5 cxd5 12. Bg5 dxe4 13. Ndb5
