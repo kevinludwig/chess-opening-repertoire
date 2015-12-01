@@ -1,1 +1,13 @@
- 1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+ 8. Be2 Na6
+ 1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+ 8. Be2 Na6 9. Ba5 f6
+(9. ...b6 10. Qd6 Bd7 (10. ...bxa5 11. Rd1 f6 12. f3) 11. Bc3 $1 f6 12. Nf3 0-0-0 13. Nd2 Qxg2 14. Bf3 Qh3 15. Rg1 Nc7 16. Qa3 Kb8 17. Rxg7 {white has compensation})
+(9. ...Bd7 10. Nf3 Nf6 11. Qd6 Qf5 12. Ne5 Qxf2+ 13. Kxf2 Ne4+ 14. Kf3 Nxd6 15. Rhd1 Ke7 16. c5 $1 Nxc5 17. Bb4 b6 18. Rac1 Nce4 19. Bd3 f5 20. Bxe4 fxe4+ 21. Ke3 c5 22. Rxc5 bxc5 23. Bxc5 {white is winning a piece back with a bind for the exchange, practice suggests it's a draw though})
+10. Qd8+ Kf7 11. 0-0-0 e5
+(11. ...b6 12. Bc3 e5 13. Bh5+ g6 14. Bf3 Qf4+ 15. Rd2 Qxc4 16. Ne2 Qxa2 17. Rd6 Rb8 18. Rhd1 Be6 $4 19. Rd7+ $1 Bxd7 20. Rxd7+ {L. Van Wely-M. Krasenkow, Olympiad 2000})
+12. Bd3 Qf4+
+(12. ...Qg4 13. Nf3 Nc5 14. Rhe1 {"white has chances for the pawn"})
+(12. ...Qxg2 13. Ne2 Qxf2 14. Ng3 {"certainly a critical (and untried) choice, although obviously White has a strong initiative -- usually Black players don't go in for these full-on multi-pawn grabs"})
+13. Kb1 b6
+(13. ...Nc5 14. Ne2 Qxf2 15. Rhf1 Qxg2 16. Qc7+ Ne7 17. Rg1 Qxg1 18. Rxg1 Nxd3 19. Rxg7+ Kxg7 20. Qxe7+ Kg6 21. Bd8 Rxd8 22. Qxd8 {with a winning bind})
+14. Bc3 $5 Nc5 15. Ne2 Qg4 16. f3 Qe6 17. Bc2 Bb7 18. Qd2 Ne7
+(18. ...a5 $2  19. f4 $1 e4 20. Nd4 Qc8 (20. ...Qxc4 $6 21. Nf5 Qe6 22. Nd6+ Kf8 23. Rhe1 Rd8 24. Bd4 $1 {the attack is crushing}) 21. Qe2 $1 Ne7 {"full-scale grovel"} 22. Qh5+ Kg8 23. Rhe1 {"white's advantage is beyond a doubt"})
+19. f4 {White has more than enough for the pawn}
