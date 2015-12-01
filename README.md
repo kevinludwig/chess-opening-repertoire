@@ -13,9 +13,11 @@ I'm hosting it here: (http://chess-endgames.rhcloud.com)
 # TODO
 
 Nimzo Indian
+QGA early deviations
 Kings Indian (Na6)
-Semi Slav
-Dutch
+Dutch Stonewall
+Dutch Classical
+Dutch Lenningrad
 Marshall Gambit
 
 # PGN4WEB Modifications
