@@ -2,4 +2,6 @@
 (8. ...Nxe5 9. dxe5 {the knight is stranded on h5})
 (8. ...f6 9. Bg3 f5 (9. ...Nxg3 $6 10. hxg3 f5 11. Nh4 $1) 10. Rc1 Bd7 11. Bb5 Nxg3 12. hxg3 Bd6 13. Bd3 += a6 (13. ...0-0 $2 14. g4) 14. Nh4 0-0 15. f4 $1 g5 16. Nf3 g4 17. Ng5 $1 Be7 18. Nxh7 Rf7 19. Kf2 $3 Rxh7 $2 20. Rxh7 Kxh7 21. Qxg4 {white has a winning attack})
 (8. ...f5 9. Bb5 Bd7 10. 0-0 Be7 11. Bxc6 Bxc6 12. Ng5 $1 Bxg5 13. Qxh5+ g6 14. Qd1 0-0 15. f4 {white has a good knight vs black's bad bishop})
-9. Bd3 0-0 10. g4 $1 Nf6 11. Rg1 Bd7 12. h4 Qb6 13. Qe2 Rac8 14. Bxf6 Bxf6 15. g5 Be7 16. h5 $1
+9. Bd3 0-0 10. g4 $1 Nf6 11. Rg1
+(11. h4 Qb6 12. Bxf6 Qxb2 13. Bxe7 Qxc3+ 14. Kf1 Nxe7 15. Rc1 {white has initiative for the pawn})
+Bd7 12. h4 Qb6 13. Qe2 Rac8 14. Bxf6 Bxf6 15. g5 Be7 16. h5 $1

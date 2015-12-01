@@ -56,9 +56,24 @@
                         "initial": 12
                     },
                     {
-                        "name": "6. ...e6",
-                        "pgn": "slav-exchange-e6",
-                        "initial": 12
+                        "name": "6. ...e6 7. e3 Nh5!?",
+                        "pgn": "slav-exchange-e6-nh5",
+                        "initial": 14
+                    },
+                    {
+                        "name": "6. ...e6 7. e3 Qb6",
+                        "pgn": "slav-exchange-e6-qb6",
+                        "initial": 14
+                    },
+                    {
+                        "name": "6. ...e6 7. e3 Bd6",
+                        "pgn": "slav-exchange-e6-bd6",
+                        "initial": 14
+                    },
+                    {
+                        "name": "6. ...e6 7. e3 Be7",
+                        "pgn": "slav-exchange-e6-be7",
+                        "initial": 14
                     },
                     {
                         "name": "6. ...Ne4",
