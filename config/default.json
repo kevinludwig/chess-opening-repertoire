@@ -11,9 +11,44 @@
                 "fen": "r1bqkb1r/pp2pppp/2n2n2/3p4/3P1B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 0 6",
                 "v": [
                     {
-                        "name": "6. ...Bf5",
-                        "pgn": "slav-exchange-bf5",
-                        "initial": 12
+                        "name": "Early deviations",
+                        "pgn": "slav-exchange-early-deviations",
+                        "initial": 8
+                    },
+                    {
+                        "name": "6. ...Bf5 7. e3 Qb6",
+                        "pgn": "slav-exchange-bf5-qb6",
+                        "initial": 14
+                    },
+                    {
+                        "name": "6. ...Bf5 7. e3 a6",
+                        "pgn": "slav-exchange-bf5-a6",
+                        "initial": 14
+                    },
+                    {
+                        "name": "6. ...Bf5 7. e3 e6 8. Bb5 a6?",
+                        "pgn": "slav-exchange-bf5-e6-bb5-a6",
+                        "initial": 16
+                    },
+                    {
+                        "name": "6. ...Bf5 7. e3 e6 8. Bb5 Bb4",
+                        "pgn": "slav-exchange-bf5-e6-bb5-bd6",
+                        "initial": 16
+                    },
+                    {
+                        "name": "6. ...Bf5 7. e3 e6 8. Bb5 Bd6",
+                        "pgn": "slav-exchange-bf5-e6-bb5-bd6",
+                        "initial": 16
+                    },
+                    {
+                        "name": "6. ...Bf5 7. e3 e6 8. Bb5 Qb6",
+                        "pgn": "slav-exchange-bf5-e6-bb5-qb6",
+                        "initial": 16
+                    },
+                    {
+                        "name": "6. ...Bf5 7. e3 e6 8. Bb5 Rc8",
+                        "pgn": "slav-exchange-bf5-e6-bb5-rc8",
+                        "initial": 16
                     },
                     {
                         "name": "6. ...a6",

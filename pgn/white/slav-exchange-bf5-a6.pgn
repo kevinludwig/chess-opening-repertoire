@@ -1,0 +1,7 @@
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 Bf5 7. e3 a6 8. Ne5 $1 e6
+(8. ...Qb6 9. a3 $1 e6 10. Na4 $1 Qd8 11. g4 $1 Bg6 12. h4 {white has a clear advantage})
+(8. ...Rc8 9. g4 $1 Bd7 (9. ...Bg6 10. h4) (9. ...Nxe5 10. gxf5 Ned7 11. Bd3 g6 12. Qb3 {"white is in charge"}) 10. f3 e6 11. Bd3 {clear advantage to white according to Taimanov})
+9. g4 Bg6 10. h4 Qb6 $5 11. a3 $1 Rc8
+(11. ...Qxb2 12. Na4 Qc2 13. Qxc2 Bxc2 14. Nb6 Ra7 (14. ...Rd8 15. Nxc6 bxc6 16. Bc7 {wins the exchange}) 15. Kd2 Be4 (15. ...Bb3 16. Nxc6 bxc6 17. Rb1 {white is winning}) 16. f3 Nxe5 17. dxe5 Bxf3 18. exf6 Bxh1 19. Bb8 gxf6 20. Bxa7 {white's extra piece is stronger than the three pawns})
+(11. ...Nxe5 12. dxe5 Nxg4 $1 13. Be2 $1 {and not 13. Na4 Qa5+ 14. b4 Bxb4+ when black has a strong attack} 13. ...h5 14. Qa4+ Kd8 15. Bxg4 hxg4 16. Rd1 {with threats all over the place})
+12. Nxg6 hxg6 13. Rb1 Na5 14. Be2 Bd6 = {equal according to Fine}
