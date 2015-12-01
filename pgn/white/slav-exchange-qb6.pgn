@@ -1,1 +1,5 @@
-1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 Qb6 7. a3 $1 Qxb2 $2 8. Na4 Qb5 9. Bd2
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 Qb6 7. a3 $1 Bf5 
+(7. ...Qxb2 $2 8. Na4 Qb5 9. Bd2 Nb8 10. Ne5 Bd7 11. Nc5)
+8. Na4 Qd8 9. e3 Nd7 
+(9. ...e6 10. Bb5 Qa5+ 11. Nc3 Be7 12. Ne5 Rc8 13. g4 Bg6 14. Qa4 Qb6 15. b4 {white has queenside space and black is devoid of counterplay})
+10. Bb5 e6 11. 0-0 Be7 12. Rc1 Rc8 13. Bxc6 bxc6 14. Ne5 Nxe5 15. Bxe5 0-0 16. Nc5 {white has a bind on c5}
