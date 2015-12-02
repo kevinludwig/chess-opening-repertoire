@@ -1,0 +1,19 @@
+[Event "Center Game 4"]
+[Site "Wijk ann Zee"]
+[Date "2003.??.??"]
+[Round ""]
+[White "Zhang Zhong"]
+[Black "Koneru, H"]
+[Result "*"]
+[WhiteElo "2624"]
+[BlackElo "2496"]
+[ECO "C22"]
+
+1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6 5.Nc3 Bb4 6.Bd2 O-O 7.O-O-O Re8 8.
+Qg3 Rxe4 9.a3 Bd6 10.f4 Re8 11.Nf3 Nh5 12.Qg4 Nf6 13.Qh3 Bf8 14.g4 d5 15.
+f5 d4 16.Bg5 
+    ( 16.Bc4 $6 dxc3 17.Bxc3 Bd6 18.g5 Bxf5 19.Qxf5 Qd7 20.Nh4 Qxf5 21.
+    Nxf5 Bf4+ 22.Kb1 Ne4 23.Rdf1 Nxc3+ 24.bxc3 Bd2 {taking on g5 gives 
+    white attack.} )
+16...h6 17.Bh4 Qd6 18.Kb1 Re3 {white does not have compensation} *
+
