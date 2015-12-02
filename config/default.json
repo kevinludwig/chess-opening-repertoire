@@ -202,6 +202,32 @@
                 ]
             },
             {
+                "name": "Dutch Lenningrad",
+                "fen": "",
+                "v": [
+                    {
+                        "name": "7. ...Qe8 8. Nd5",
+                        "pgn": "dutch-lenningrad-qe8-nd5",
+                        "initial": 16
+                    },
+                    {
+                        "name": "7. ...Nc6 8. d5 Na5",
+                        "pgn": "dutch-lenningrad-nc6-na5",
+                        "initial": 16
+                    },
+                    {
+                        "name": "7. ...Nc6 8. d5 Ne5",
+                        "pgn": "dutch-lenningrad-nc6-ne5",
+                        "initial": 16
+                    },
+                    {
+                        "name": "7. ...c6",
+                        "pgn": "dutch-lenningrad-c6",
+                        "initial": 14
+                    }
+                ]
+            },
+            {
                 "name": "Budapest Gambit",
                 "fen": "rnbqkb1r/pppp1ppp/5n2/4P3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3",
                 "v": [
