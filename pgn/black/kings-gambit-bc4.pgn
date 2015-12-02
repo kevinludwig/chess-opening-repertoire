@@ -1,0 +1,23 @@
+[Event "Kings Gambit Game 1"]
+[Site "Tilburg"]
+[Date "1997.??.??"]
+[Round ""]
+[White "Adams, M"]
+[Black "Shirov, A"]
+[Result "*"]
+[WhiteElo "2680"]
+[BlackElo "2700"]
+[ECO "C33"]
+
+1.e4 e5 2.f4 d5 3.exd5 exf4 4.Bc4 Qh4+ 5.Kf1 Bd6 6.Nf3 
+    ( 6.Nc3 Ne7 7.Ne4 O-O 8.Qe1 Qh6 )
+6...Qh6 7.Nc3 
+    ( 7.d4 Ne7 8.Bb5+ Bd7 9.Bxd7+ Nxd7 10.c4 Nf5 $15 )
+7...Ne7 8.Ne4 
+    ( 8.d4 O-O 9.Kf2 Bg4 10.h3 Bxf3 11.Qxf3 Qh4+ 12.Kg1 Nf5 13.Ne2 Nd7 14.
+    Bd3 Ng3 15.Nxf4 Rae8 16.Bd2 Nf6 17.Kh2 Nfh5 $19 )
+8...Nd7 9.Nxd6+ 
+    ( 9.d4 O-O 10.Bb3 Nf5 $15 )
+9...Qxd6 10.d4 O-O 11.Kf2 Nb6 12.Bb3 Nbxd5 13.Re1 Bg4 14.h3 Bh5 15.Re5 Nf6
+16.Bxf4 Ng6 17.Rxh5 Ne4+ 18.Kg1 Nxf4 19.Rh4 Rae8 20.c3 Ng3 *
+

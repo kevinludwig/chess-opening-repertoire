@@ -1,0 +1,23 @@
+[Event "Kings Gambit Game 4"]
+[Site "Ohrid"]
+[Date "2001.??.??"]
+[Round ""]
+[White "Fedorov, A"]
+[Black "Goloshchapov, A"]
+[Result "*"]
+[WhiteElo "2590"]
+[BlackElo "2528"]
+[ECO "C36"]
+
+1.e4 e5 2.f4 d5 3.exd5 exf4 4.Nf3 Nf6 5.Bc4 Nxd5 6.O-O Be6 7.Bb3 
+    ( 7.Qe2 Be7 8.Nc3 Nc6 9.d4 Nxc3 10.bxc3 Bxc4 11.Qxc4 Qd6 12.Rb1 O-O 
+    13.Qd3 b6 )
+7...Be7 8.c4 
+    ( 8.d4 O-O 9.c4 Ne3 )
+8...Nb6 9.d4 Nxc4 10.Nc3 
+    ( 10.Bxf4 Nb6 11.Bxe6 fxe6 )
+10...Nb6 11.d5 
+    ( 11.Bxe6 fxe6 12.Qe2 Qd7 13.Ne5 Qxd4+ 14.Kh1 N8d7 )
+11...Bg4 12.Bxf4 O-O 13.Nb5 Na6 14.Rc1 Bc5+ 15.Kh1 c6 16.dxc6 Qxd1 17.
+Rfxd1 bxc6 $10 {white has compensation for the pawn} *
+

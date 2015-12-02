@@ -1,0 +1,20 @@
+[Event "Kings Gambit Game 6"]
+[Site "Myyrmanni"]
+[Date "1999.??.??"]
+[Round ""]
+[White "Westerinen, H"]
+[Black "Yemelin, V"]
+[Result "*"]
+[WhiteElo "2382"]
+[BlackElo "2500"]
+[ECO "C36"]
+
+1.e4 e5 2.f4 d5 3.exd5 exf4 4.Nf3 Nf6 5.Bb5+ c6 6.dxc6 Nxc6 7.d4 Bd6 8.
+Qe2+ Be6 9.Ng5 O-O 10.Nxe6 fxe6 11.Bxc6 bxc6 12.O-O Bc7 13.c3 Nd5 14.Na3 
+    ( 14.Qxe6+ Kh8 15.Na3 
+        ( 15.Qxc6 $2 Rf6 16.Qc5 f3 $1 {with a very strong attack} )
+    15...Rf6 )
+14...e5 15.dxe5 
+    ( 15.Nc2 exd4 16.Nxd4 Qd6 {with attack} )
+15...Qg5 16.Nc4 Rae8 17.Bd2 Bxe5 {with attack} *
+

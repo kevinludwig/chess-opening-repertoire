@@ -1,0 +1,23 @@
+[Event "Kings Gambit Game 2"]
+[Site "Belgium"]
+[Date "1996.??.??"]
+[Round ""]
+[White "Geenen, M"]
+[Black "Dutreeuw, M"]
+[Result "*"]
+[WhiteElo "2330"]
+[BlackElo "2390"]
+[ECO "C36"]
+
+1.e4 e5 2.f4 d5 3.exd5 exf4 4.Nf3 Nf6 5.Nc3 Nxd5 6.Nxd5 Qxd5 7.d4 Be7 8.c4
+    ( 8.Bd3 Nc6 9.Bxf4 
+        ( 9.c3 g5 )
+    9...g5 10.Bg3 g4 11.c4 Qh5 12.Nd2 Nxd4 13.Bxc7 O-O {black is better 
+    because 0-0 loses the exchange} )
+8...Qe4+ 9.Be2 
+    ( 9.Kf2 Bf5 10.c5 Nc6 11.Bb5 Bg4 12.Re1 Bxf3 13.Rxe4 Bxd1 14.Bxf4 Bc2 
+    15.Re2 Bd3 16.Bxd3 Nxd4 17.Re4 Ne6 )
+9...Nc6 10.O-O Bg4 11.Bd3 
+    ( 11.d5 Ne5 )
+11...Bxf3 12.Bxe4 Bxd1 13.Bxc6+ bxc6 14.Rxd1 g5 *
+
