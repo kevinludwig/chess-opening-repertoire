@@ -14,11 +14,8 @@ I'm hosting it here: (http://chess-endgames.rhcloud.com)
 
 Nimzo Indian
 QGA early deviations
-Kings Indian (Na6)
 Dutch Stonewall
 Dutch Classical
-Dutch Lenningrad
-Marshall Gambit
 
 # PGN4WEB Modifications
 
