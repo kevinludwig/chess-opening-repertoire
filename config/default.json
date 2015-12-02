@@ -577,6 +577,32 @@
                         "initial": 13
                     }
                 ]
+            },
+            {
+                "name": "Pirc",
+                "fen": "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR b KQkq - 0 4",
+                "v": [
+                    {
+                        "name": "4. ...Bg7 5. Qd2 0-0",
+                        "pgn": "pirc-bg7-qd2-00",
+                        "initial": 10
+                    },
+                    {
+                        "name": "4. ...Bg7 5. Qd2 c6",
+                        "pgn": "pirc-bg7-qd2-c6",
+                        "initial": 10
+                    },
+                    {
+                        "name": "4. ...c6 5. Qd2 b5 6. Bd3 Nbd7 7. Nf3 Qc7",
+                        "pgn": "pirc-c6-qd2-b5-qc7",
+                        "initial": 14
+                    },
+                    {
+                        "name": "4. ...c6 5. Qd2 b5 6. Bd3 Nbd7 7. Nf3 e5",
+                        "pgn": "pirc-c6-qd2-b5-e5",
+                        "initial": 14
+                    }
+                ]
             }
         ],
         "black": [
