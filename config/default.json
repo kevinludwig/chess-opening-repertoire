@@ -537,7 +537,21 @@
                 "name": "Evans Gambit",
                 "fen": "r1bqk1nr/pppp1ppp/2n5/b3p3/2B1P3/2P2N2/P2P1PPP/RNBQK2R w KQkq - 0 6",
                 "v": [
-
+                    {
+                        "name": "6. Qb3 Qe7",
+                        "pgn": "evans-gambit-qb3",
+                        "initial": 12
+                    },
+                    {
+                        "name": "6. d4 exd4 7. 0-0 Nge7 8. Ng5",
+                        "pgn": "evans-gambit-d4-ng5",
+                        "initial": 16
+                    },
+                    {
+                        "name": "6. d4 exd4 7. 0-0 Nge7 8. Qb3",
+                        "pgn": "evans-gambit-d4-qb3",
+                        "initial": 16
+                    }
                 ]
             },
             {

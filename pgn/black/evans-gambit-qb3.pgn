@@ -1,0 +1,26 @@
+[Event "Evans Gambit Game 3"]
+[Site ""]
+[Date "2001.??.??"]
+[Round ""]
+[White "Sutovsky, E"]
+[Black "Smagin, S"]
+[Result "*"]
+[WhiteElo "2604"]
+[BlackElo "2613"]
+[ECO "C52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.Qb3 Qe7 7.d4 exd4 8.O-O 
+Bb6 9.cxd4 
+    ( 9.Ba3 d6 10.Bb5 
+        ( 10.e5 Na5 11.Qa4+ Bd7 12.Bb5 Bxb5 13.Qxb5+ Qd7 )
+        ( 10.cxd4 Nxd4 11.Nxd4 Bxd4 12.Nc3 Nf6 )
+    10...Bd7 11.Re1 Na5 12.Qb2 Bxb5 13.Qxb5+ Qd7 14.Qd3 dxc3 15.Nxc3 Nc6 
+    16.Nd5 Nge7 )
+9...Nxd4 10.Nxd4 Bxd4 11.Ba3 
+    ( 11.Nc3 Nf6 12.Rd1 Bxc3 13.Qxc3 O-O 14.e5 Ne4 15.Qd4 Nc5 16.Ba3 b6 )
+11...d6 12.Nc3 Nf6 13.Rad1 
+    ( 13.Bxf7+ Qxf7 14.Qa4+ Bd7 15.Qxd4 O-O 16.f4 Bc6 )
+13...Bxc3 14.Qxc3 O-O 15.Rfe1 
+    ( 15.e5 Qxe5 16.Qxe5 dxe5 17.Bxf8 Kxf8 18.Rfe1 Nd7 )
+15...Ng4 16.Qg3 Ne5 17.Bd5 Qf6 18.f4 Ng6 19.Rf1 Re8 *
+

@@ -1,0 +1,38 @@
+[Event "Evans Gambit Game 2"]
+[Site "Wijk ann Zee"]
+[Date "2001.??.??"]
+[Round ""]
+[White "Morozevich, A"]
+[Black "Adams, M"]
+[Result "*"]
+[WhiteElo "2745"]
+[BlackElo "2746"]
+[ECO "C52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O Nge7 8.Ng5 
+Ne5 9.Bb3 
+    ( 9.Nxf7 Nxf7 10.Bxf7+ Kxf7 11.Qh5+ g6 12.Qxa5 d5 13.Bg5 b6 14.Qa3 
+    dxe4 15.cxd4 h6 )
+9...d5 10.exd5 
+    ( 10.cxd4 Ng4 11.exd5 
+        ( 11.h3 Nh6 )
+    11...O-O )
+    ( 10.Qxd4 N7g6 11.Qa4+ c6 12.exd5 O-O 13.dxc6 Nxc6 )
+10...O-O 11.cxd4 
+    ( 11.Nxh7 Kxh7 12.Qh5+ Kg8 13.Qxe5 Nf5 14.Bd2 
+        ( 14.cxd4 Re8 15.Qf4 Bb4 16.Ba3 a5 17.Bxb4 axb4 18.Nd2 g5 19.Qf3 
+        Nxd4 )
+    14...Re8 15.Qf4 Bb6 16.cxd4 Bxd4 17.Bc3 Qd6 18.Qxd6 cxd6 {black has 
+    better pieces and pawns} )
+11...Ng4 12.Qf3 
+    ( 12.Ba3 Nxd5 13.Bxf8 Qxg5 14.Bxd5 Qxd5 15.Ba3 Be6 {more than enough 
+    comp for the exchange} )
+12...Nf6 13.Ba3 h6 14.Ne4 
+    ( 14.Qe2 $2 Nfxd5 15.Bxd5 Nxd5 16.Bxf8 Qxg5 17.Ba3 Bh3 18.Qf3 Nf4 19.
+    Bc1 Qxg2+ 20.Qxg2 Nxg2 $19 )
+14...Nxe4 15.Qxe4 Re8 16.Bb2 Nf5 17.Qf4 Bb4 18.Na3 Bd6 19.Qd2 Qh4 20.g3 
+Qh3 21.Nc4 b5 $1 22.Nxd6 
+    ( 22.Ne5 Bb7 23.Rae1 a5 24.a3 b4 25.axb4 $2 Bxb4 26.Bc3 $4 Bxc3 27.
+    Qxc3 Nh4 )
+22...Nxd6 23.Rac1 Nc4 24.Bxc4 bxc4 {Black has Bb7 next} *
+

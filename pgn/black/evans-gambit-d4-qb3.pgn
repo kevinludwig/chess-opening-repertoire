@@ -1,0 +1,37 @@
+[Event "Evans Gambit Game 1"]
+[Site "Moscow"]
+[Date "2001.??.??"]
+[Round ""]
+[White "Sulskis, S"]
+[Black "Svidler, P"]
+[Result "*"]
+[WhiteElo "2571"]
+[BlackElo "2686"]
+[ECO "C52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O Nge7 8.cxd4
+d5 9.exd5 Nxd5 10.Qb3 Be6 11.Qxb7 
+    ( 11.Ba3 Qd7 12.Rc1 
+        ( 12.Qxb7 $4 Rb8 13.Qa6 Rb6 )
+        ( 12.Nbd2 Bxd2 13.Nxd2 Na5 14.Qb2 Nxc4 15.Nxc4 Nf4 16.Ne3 O-O-O 
+        17.Rab1 Bd5 )
+        ( 12.Bb5 Nc3 13.Bxc6 Qxc6 )
+        ( 12.Ne5 Nxe5 13.Qxb7 Qc8 14.Qxc8+ Rxc8 15.dxe5 Nf4 16.Bxe6 fxe6 
+        17.Rd1 Nd5 {Black has a knight outpost and an extra pawn, with no 
+        offsetting white advantages.} )
+    12...Bb6 13.Nbd2 Na5 14.Qc2 f6 15.Re1 O-O-O )
+11...Ndb4 12.d5 $6 
+    ( 12.Bb5 Bd5 13.Ne5 
+        ( 13.Re1+ Kf8 14.Ba3 Kg8 {the queen is doomed} )
+    13...Rb8 14.Bxc6+ 
+        ( 14.Nxc6 Rxb7 15.Nxd8+ Rxb5 16.Nc3 Nc2 17.Nxb5 Nxa1 18.Bf4 Kxd8 
+        19.Rxa1 a6 20.Na3 Re8 $17 {black has bishop pair and better placed
+        pieces.} )
+    14...Nxc6 15.Qa6 Rb6 16.Qd3 O-O {black has development lead and bishop
+    pair} )
+12...Rb8 13.Qxb8 Qxb8 14.dxe6 fxe6 15.Nc3 O-O 16.Rb1 
+    ( 16.Ng5 Nd4 17.Nxe6 Nxe6 18.Bxe6+ Kh8 {Rook, bishop, pawn, and bishop
+    pair equals a queen, but white does not have the extra pawn, so is in 
+    effect a pawn down.} )
+16...Qe8 17.Re1 Nd8 $17 *
+
