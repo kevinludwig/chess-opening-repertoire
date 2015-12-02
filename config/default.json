@@ -657,8 +657,8 @@
                     },
                     {
                         "name": "8. Bc4",
-                       "pgn": "center-game-bc4",
-                      "initial": 16 
+                        "pgn": "center-game-bc4",
+                        "initial": 16 
                     }
                 ]
             },
@@ -728,7 +728,11 @@
                 "name": "Goring Gambit",
                 "fen": "r1bqk1nr/ppp2ppp/2np4/8/2B1P3/2P2N2/P4PPP/R1BQK2R w KQkq - 0 8",
                 "v": [
-
+                    {
+                        "name": "8. Qb3",
+                        "pgn": "goring-gambit-qb3-qe7",
+                        "initial": 16
+                    }
                 ]
             },
             {
