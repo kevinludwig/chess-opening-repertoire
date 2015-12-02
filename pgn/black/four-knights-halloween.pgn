@@ -1,0 +1,22 @@
+[Event "Halloween Gambit"]
+[Site "France"]
+[Date "2003.??.??"]
+[Round ""]
+[White "Gailard"]
+[Black "Platel"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5 Nxe5 5.d4 Nc6 
+    ( 5...Ng6 6.e5 Ng8 
+        ( 6...Bb4 7.exf6 Qxf6 )
+    7.Bc4 d5 8.Bxd5 c6 {Euwe claims black has decisive advantage here} )
+6.d5 Bb4 
+    ( 6...Ne5 7.f4 Ng6 8.e5 Ng8 9.d6 cxd6 10.exd6 Qf6 11.Qe2+ 
+        ( 11.Nb5 Nxf4 12.Nc7+ Kd8 13.Nxa8 Qe5+ 14.Kf2 Bxd6 {and black has 
+        attack} )
+    11...Kd8 )
+7.dxc6 Nxe4 8.Qd4 Qe7 9.Be3 
+    ( 9.Qxg7 Nxc3+ 10.Be3 Nd5+ 11.c3 Rf8 12.cxb4 Nxe3 13.fxe3 Qxb4+ $19 )
+9...O-O 10.Bd3 Nxc3 11.bxc3 Ba5 12.O-O Bb6 13.Qf4 Bxe3 14.fxe3 dxc6 {black
+has the better structure} *
+

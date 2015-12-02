@@ -1,0 +1,20 @@
+[Event "Four Knights Game 3"]
+[Site "France"]
+[Date "2001.??.??"]
+[Round ""]
+[White "Koch, J"]
+[Black "Adams, M"]
+[Result "*"]
+[WhiteElo "2507"]
+[BlackElo "2746"]
+[ECO "C47d"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bc4 Nxe4 5.Nxe4 
+    ( 5.Bxf7+ Kxf7 6.Nxe4 d5 7.Neg5+ Kg8 {black has the bishops and the 
+    center} )
+5...d5 6.Bd3 dxe4 7.Bxe4 Bd6 8.d4 exd4 9.Bxc6+ 
+    ( 9.Nxd4 O-O 10.Nxc6 bxc6 11.Be3 Rb8 12.Rb1 Qh4 {white is stuck in the
+    middle} )
+9...bxc6 10.Qxd4 O-O $10 {black has the bishop pair in a wide open 
+position, but his pawns are wrecked} *
+

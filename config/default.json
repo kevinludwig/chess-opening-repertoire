@@ -608,7 +608,16 @@
                 "name": "Four Knights",
                 "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4",
                 "v": [
-
+                    {
+                        "name": "4. Bc4 Nxe4",
+                        "pgn": "four-knights-bc4",
+                        "initial": 8
+                    },
+                    {
+                        "name": "4. Nxe5 Nxe5 5. d4",
+                        "pgn": "four-knights-halloween",
+                        "initial": 10
+                    }
                 ]
             },
             {
