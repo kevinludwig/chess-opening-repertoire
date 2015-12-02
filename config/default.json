@@ -203,7 +203,7 @@
             },
             {
                 "name": "Dutch Lenningrad",
-                "fen": "",
+                "fen": "rnbq1rk1/ppp1p1bp/3p1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 7",
                 "v": [
                     {
                         "name": "7. ...Qe8 8. Nd5",
@@ -556,6 +556,27 @@
                         "initial": 12
                     }
                 ]
+            },
+            {
+                "name": "Modern Defense",
+                "fen": "rnbq1rk1/ppp1ppbp/3p1np1/8/3PP3/2PB1N2/PP3PPP/RNBQ1RK1 b - - 0 6",
+                "v": [
+                    {
+                        "name": "6. ...Nc6 7. Re1",
+                        "pgn": "modern-defense-nc6",
+                        "initial": 13
+                    },
+                    {
+                        "name": "6. ...Nbd7 7. Re1",
+                        "pgn": "modern-defense-nbd7",
+                        "initial": 13
+                    },
+                    {
+                        "name": 6. ...c5 7. h3",
+                        "pgn": "modern-defense-c5",
+                        "initial": 13
+                    }
+                ]
             }
         ],
         "black": [
@@ -658,7 +679,7 @@
                     {
                         "name": "8. Bc4",
                         "pgn": "center-game-bc4",
-                        "initial": 16 
+                        "initial": 16
                     }
                 ]
             },

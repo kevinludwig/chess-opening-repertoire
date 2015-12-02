@@ -1,0 +1,8 @@
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. c3 Nf6 5. Bd3 0-0 6. 0-0 c5 7. h3 Nc6
+(7. ...Nfd7 8. Be3 Nc6 9. Nbd7 b6 10. a3 Bb7 11. b4 {white has a space advantage})
+(7. ...cxd4 8. cxe4 Nc6 9. Nc3 Nd7 10. Be3 e5 11. Bc4 Nb6 12. Bb5 exd4 13. Nxd4 {black has no compensation for the isolated pawn})
+(7. ...Na6 8. a3 Nc7 9. Re1 b6 10. Be7 Bb7 11. Nbd2 {white has a space advantage, planning Rc1 and b4})
+8. d5 Ne5
+(8. ...Nb8 9. c4 {is a favorable benoni position})
+9. Nxe5 dxe5 10. Be3 b6 11. c4 {similar now to a kings indian} Ne8 12. f3 Nd6 13. Nc3 e6 14. a3 exd5 15. Nxd5 Be6 16. Be2 f5 17. Qd3 Qd7 18. Rad1 Rad8 {now white wins an exchange}
+19. Bg5 fxe4 20. fxe4 Rxf1+ 21. Bxf1 Re8 22. Ne7+ Kf8 $1 23. Qxd6 Qxd6 24. Rxd6 Rxe7 25. Bxe7+ Kxe7 26. Rd1 {black has the bishop pair for the exchange. white should seek to exchange bishops}

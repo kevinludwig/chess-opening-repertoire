@@ -1,0 +1,11 @@
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. c3 Nf6 5. Bd3 0-0 6. 0-0 Nc6 7. Re1 e5 8. h3 Re8
+(8. ...Nd7 9. Bg5 f6 10. Be3 {white has an edge because he can maintain his central pawns})
+(8. ...exd4 $6 9. cxd4 Nb4 10. Bf1 c5 11. a3 Nc6 12. d5 Nb8 13. Nc3 {standard benoni, but white is up several tempi})
+(8. ...h6 9. Na3 Re8 10. Nc2 a6 11. Bd2 Bd7 12. a4 a5 13. dxe5 dxe5 14. Be3 Be6 15. Na3 Qe7 16. Qe2 {white has an edge, the Nc6 is misplaced and white has more forces pointed at the queenside})
+9. d5 Ne7 10. c4 Nd7 {similar to a kings indian, but with the rook on e8 rather than f8}
+(10. ...c5 11. Nc3 Nh5 12. Rb1 b6 13. b4 {white can continue with Bc2-a4; he is ahead of normal Kings indian positions})
+11. Nc3 h6 12. b4 f5 13. Ba3 Nf6 14. Rc1 Kh8 $6
+(14. ...g5 15. c5 Rf8 16. Nd2 {white is ahead of similar kings indian lines})
+15. Nd2 Rg8 $6 16. c5 Ne8 17. Nc4 {white has a clear advantage now} fxe4 18. Nxe4 $1 dxc5 $6
+(18. ...Nxd5 19. cxd6 cxd6 20. b5 Bf8 21. Bc2 $1 Be6 22. Bb3 Ndf6 23. Nexd6 {white has pressure that should net a pawn})
+19. Nxc5 Qxd5 20. Bb2 Nc6 21. b5 $1 22. Bxg7+ Nxg7 23. Nxe4 Nb4 24. Qd2 Nf5 25. Qxb4 Qxd3 26. Rcd1 Qc2 27. Rd2
