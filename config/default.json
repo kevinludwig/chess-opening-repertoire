@@ -879,7 +879,7 @@
                 "fen": "r1b1kbnr/ppp1pppp/2n5/3q4/3P4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4",
                 "v": [
                 ]
-            }
+            },
             {
                 "name": "Chigorin Defense, 3. Nc3 dxc4",
                 "fen": "r1bqkbnr/ppp1pppp/2n5/8/2pP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4",
@@ -891,7 +891,7 @@
                 "name": "Chigorin Defense, 3. Nf3 Bg4",
                 "fen": "r2qkbnr/ppp1pppp/2n5/3p4/2PP2b1/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4",
                 "v": [
-                
+
                 ]
             },
             {
