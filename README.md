@@ -14,8 +14,22 @@ I'm hosting it here: (http://chess-endgames.rhcloud.com)
 
 Nimzo Indian
 QGA early deviations
-Dutch Stonewall
+Dutch Lenningrad (find resource on main line)
+Dutch Stonewall (find resource on main line)
 Dutch Classical
+Old Benoni
+
+Chigorin for black
+Berlin for black
+Four Knights: Glek and Bb5
+Kings Gambit: d4 and c4
+Vienna Game
+Blackmar-Diemer Gambit
+Stonewall
+Danish Gambit 
+Scotch Gambit
+Scotch game (find resource)
+Pirc
 
 # PGN4WEB Modifications
 
