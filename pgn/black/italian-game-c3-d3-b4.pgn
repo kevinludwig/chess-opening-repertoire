@@ -1,0 +1,27 @@
+[Event "Italian Game 10"]
+[Site "Wijk ann Zee"]
+[Date "1995.??.??"]
+[Round ""]
+[White "Lutz, C"]
+[Black "Khalifman, A"]
+[Result "*"]
+[WhiteElo "2580"]
+[BlackElo "2645"]
+[ECO "C54f"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.b4 Bb6 7.a4 a5 8.b5 Ne7 9.
+O-O Ng6 10.Nbd2 O-O 11.Ba3 Nh5 12.d4 
+    ( 12.Nxe5 $2 Nxe5 13.Qxh5 Bg4 )
+12...Nhf4 13.dxe5 
+    ( 13.Re1 Bg4 14.h3 Bxh3 15.gxh3 Nxh3+ 16.Kh2 Nxf2 17.Qe2 Ng4+ 18.Kg3 
+    Nf4 19.Qf1 Qf6 )
+13...Bg4 14.g3 
+    ( 14.exd6 Nh4 15.dxc7 Qxc7 16.Bxf8 Rxf8 17.Nxh4 Bxd1 18.Raxd1 Rd8 $10 
+    )
+    ( 14.h3 Bxh3 15.gxh3 Nxh3+ 16.Kg2 Nhf4+ 17.Kg3 Nh5+ 18.Kh2 Nxe5 19.Kg1
+    Nf4 20.Bc1 Nh3+ $10 )
+14...Nxe5 15.gxf4 Bxf3 16.Nxf3 Nxc4 17.Qd5 Nxa3 18.Rxa3 Qf6 {black is much
+better} 19.f5 g6 20.Qxb7 gxf5 21.c4 Kh8 22.Kh1 Rae8 23.exf5 Rg8 24.Qd5 Qg7
+25.Nh4 Qg4 26.Ng2 Re5 27.Rg3 Rxd5 28.Rxg4 Rxg4 29.cxd5 Rxa4 30.Ne3 Rf4 31.
+Rc1 Rxf2 32.Nc4 Rxf5 *
+

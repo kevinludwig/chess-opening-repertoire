@@ -1,0 +1,28 @@
+[Event "Italian Game 4"]
+[Site "Russia"]
+[Date "1997.??.??"]
+[Round ""]
+[White "Morozevich, A"]
+[Black "Korneev, O"]
+[Result "*"]
+[WhiteElo "2595"]
+[BlackElo "2590"]
+[ECO "C50v"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 Nf6 5.d3 d6 6.Bg5 
+    ( 6.Be3 Bb6 $10 )
+    ( 6.Na4 Bb6 7.Nxb6 axb6 8.c3 Na5 9.Bb5+ Bd7 )
+6...h6 7.Bxf6 
+    ( 7.Bh4 g5 8.Bg3 a6 9.a3 Bg4 )
+7...Qxf6 8.Nd5 Qd8 9.c3 a6 10.d4 
+    ( 10.O-O Ba7 11.h3 )
+10...Ba7 11.dxe5 
+    ( 11.h3 O-O 12.O-O Be6 )
+11...Nxe5 12.Nxe5 dxe5 13.Qh5 O-O 14.Qxe5 Re8 15.Qf4 Qd6 16.Qf3 
+    ( 16.Qxd6 Rxe4+ 17.Kd2 cxd6 18.Bb3 Bd7 $10 )
+16...Be6 17.O-O-O Qe5 18.Be2 
+    ( 18.Bb3 $2 c6 19.Ne3 Bxb3 20.axb3 Qxe4 )
+18...Rad8 19.Nb4 Rxd1+ 20.Bxd1 Bc4 21.Bc2 Re6 22.Qf5 
+    ( 22.Rd1 Rf6 23.Qg3 Qxg3 )
+22...a5 23.Bd3 Bxd3 24.Nxd3 Qxe4 25.Qxe4 Rxe4 26.Kd2 c6 27.f3 *
+

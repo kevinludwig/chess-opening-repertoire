@@ -1,0 +1,24 @@
+[Event "Italian Game 5"]
+[Site "St. Petersburg"]
+[Date "1998.??.??"]
+[Round ""]
+[White "Karpatchev, A"]
+[Black "Grischuk, A"]
+[Result "*"]
+[WhiteElo "2515"]
+[BlackElo "2490"]
+[ECO "C55b"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d4 Bxd4 6.Nxd4 Nxd4 7.Bg5 d6 8.f4 
+Be6 9.Na3 Qe7 10.f5 
+    ( 10.c3 Bxc4 11.Nxc4 Ne6 12.fxe5 dxe5 13.Bxf6 Qc5+ 14.Rf2 gxf6 15.Qf1 
+    Nf4 )
+10...Bxc4 11.Nxc4 O-O-O 12.Ne3 
+    ( 12.c3 d5 13.exd5 
+        ( 13.Ne3 dxe4 14.cxd4 exd4 )
+        ( 13.cxd4 dxc4 14.d5 Qc5+ 15.Kh1 c6 16.Bxf6 gxf6 )
+    13...Qc5 14.cxd4 Qxc4 15.dxe5 Rxd5 )
+12...c6 $1 13.a4 
+    ( 13.c3 Nb5 14.a4 Nc7 )
+13...d5 14.c3 dxe4 15.cxd4 exd4 16.Nc4 h6 17.Bf4 Rhe8 *
+

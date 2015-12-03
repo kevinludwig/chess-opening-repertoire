@@ -1,0 +1,20 @@
+[Event "Italian Game 13"]
+[Site "France"]
+[Date "2001.??.??"]
+[Round ""]
+[White "Spraggett, K"]
+[Black "Adams, M"]
+[Result "*"]
+[WhiteElo "2526"]
+[BlackElo "2746"]
+[ECO "C54e"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.Bb3 d6 7.O-O Ba7 8.Nbd2 O-O
+9.Re1 Ng4 10.Re2 Kh8 11.h3 Nh6 12.Nf1 f5 13.Bxh6 
+    ( 13.d4 Qf6 14.dxe5 Nxe5 15.Nxe5 dxe5 16.Be3 f4 )
+13...gxh6 14.exf5 Bxf5 15.N1h2 
+    ( 15.Bd5 Rb8 16.Ng3 Ne7 17.Be4 Be6 18.c4 Ng6 $15 )
+15...Qf6 16.Qd2 Rae8 17.Kh1 Re7 18.a3 Rg7 19.Rg1 h5 20.Ba2 Bd7 21.b4 Ne7 
+22.d4 exd4 23.cxd4 Ng6 24.Re4 Nf4 25.h4 Bc6 26.d5 Bb5 27.g3 Nh3 28.Rg2 Bf1
+29.Nxf1 Qxf3 30.Re2 Nf4 *
+

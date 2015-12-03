@@ -1,0 +1,30 @@
+[Event "Italian Game 7"]
+[Site "Moscow"]
+[Date "2002.??.??"]
+[Round ""]
+[White "Sveshnikov, E"]
+[Black "Aleksandrov, A"]
+[Result "*"]
+[WhiteElo "2565"]
+[BlackElo "2645"]
+[ECO "C54k"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Bb5 
+    ( 7.exf6 dxc4 8.fxg7 Rg8 9.Bg5 Be7 $15 )
+7...Ne4 8.cxd4 Bb4+ 9.Bd2 
+    ( 9.Nbd2 Bd7 10.O-O O-O 11.Bd3 
+        ( 11.Nxe4 dxe4 12.Ng5 Nxe5 13.Qa4 Bxb5 14.Qxb5 Nd3 15.Be3 Qe7 16.
+        f3 a6 17.Qxb7 exf3 18.Qxf3 Rae8 )
+    11...Bf5 12.Qc2 Bxd2 13.Bxd2 f6 $10 )
+9...Nxd2 10.Bxc6+ 
+    ( 10.Nbxd2 Bd7 11.O-O O-O 12.Qb3 Nxd4 13.Nxd4 Bxd2 14.Rfd1 Bf4 15.Bxd7
+    Qxd7 16.Qxb7 Bxe5 17.Nf3 Bf6 18.Rxd5 Qa4 $10 )
+10...bxc6 11.Nbxd2 O-O 12.O-O c5 13.a3 
+    ( 13.Rc1 c4 )
+13...Bxd2 14.Qxd2 
+    ( 14.Nxd2 $2 cxd4 )
+14...Bg4 15.dxc5 Bxf3 16.gxf3 c6 17.Rfe1 
+    ( 17.Qd4 Qg5+ 18.Kh1 Qh5 $10 )
+    ( 17.b4 Qh4 18.Rfe1 Rae8 )
+17...Qd7 18.Qd3 Rae8 19.Re3 f6 *
+
