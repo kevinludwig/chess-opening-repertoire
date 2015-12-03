@@ -878,20 +878,63 @@
                 "name": "Chigorin Defense, 3. cxd5 Qxd5",
                 "fen": "r1b1kbnr/ppp1pppp/2n5/3q4/3P4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4",
                 "v": [
+                    {
+                        "name": "4. e3 e5 5. Bb4 Bd2 6. Bxc3 Bxc3",
+                        "pgn": "chigorin-defense-cxd5-bd2-bxc3",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. e3 e5 5. Bb4 Bd2 6. Bxc3 bxc3",
+                        "pgn": "chigorin-defense-cxd5-bd2-bxc3a",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. Nf3 e5",
+                        "pgn": "chigorin-defense-cxd5-nf3",
+                        "initial": 8
+                    }
                 ]
             },
             {
                 "name": "Chigorin Defense, 3. Nc3 dxc4",
                 "fen": "r1bqkbnr/ppp1pppp/2n5/8/2pP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4",
                 "v": [
-
+                    {
+                        "name": "4. d5 Ne5 5. f4",
+                        "pgn": "chigorin-defense-nc3-d5-f4",
+                        "initial": 9
+                    },
+                    {
+                        "name": "4. d5 Ne5 5. Bf4",
+                        "pgn": "chigorin-defense-nc3-d5-bf4",
+                        "initial": 9
+                    },
+                    {
+                        "name": "4. d5 Ne5 5. Qd4",
+                        "pgn": "chigorin-defense-nc3-d5-qd4",
+                        "initial": 9
+                    },
+                    {
+                        "name": "4. d5 Ne5 5. e4",
+                        "pgn": "chigorin-defense-nc3-d5-e4",
+                        "initial": 9
+                    }
                 ]
             },
             {
                 "name": "Chigorin Defense, 3. Nf3 Bg4",
                 "fen": "r2qkbnr/ppp1pppp/2n5/3p4/2PP2b1/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4",
                 "v": [
-
+                    {
+                        "name": "4. cxd5 Bxf3 5. dxc6",
+                        "pgn": "chigorin-defense-nf3-cxd5-dxc6",
+                        "initial": 9
+                    },
+                    {
+                        "name": "4. cxd5 Bxf3 5. gxf3",
+                        "pgn": "chigorin-defense-nf3-cxd5-gxf3",
+                        "initial": 9
+                    }
                 ]
             },
             {
