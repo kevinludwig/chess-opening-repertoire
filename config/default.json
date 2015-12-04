@@ -255,6 +255,27 @@
                 ]
             },
             {
+                "name": "Czech Benoni",
+                "fen": "",
+                "v": [
+                    {
+                        "name": "h3, g4, Rg1 plan",
+                        "pgn": "czech-benoni-h3-g4-rg1",
+                        "initial": 8,
+                        "keygames": [
+                            {
+                                "name": "Kasparov-Miles, Basel (1986)",
+                                "pgn": "kasparov-miles-basel-1986"
+                            },
+                            {
+                                "name": "Ivanchuk-Seirawan, Reykjavik (1990)",
+                                "pgn": "ivanchuk-seirawan-reykjavik-1990"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "name": "Schmid Benoni",
                 "fen": "rnbqk2r/pp2ppbp/3p1np1/1BpP4/4PP2/2N5/PPP3PP/R1BQK1NR b KQkq - 0 6",
                 "v": [

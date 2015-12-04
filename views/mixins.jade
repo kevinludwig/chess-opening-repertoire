@@ -1,0 +1,30 @@
+mixin make-board(board)
+    .preview
+        each x in range
+            each y in range
+                -var className = (((x + y) % 2) === 0 ? 'white' : 'black') + 'Square';
+                .preview-square(class=className)
+                    -var val = board[(x*8)+y];
+                    if val
+                        img.img-responsive(src=val)
+
+mixin button-bar()
+    #button-bar.btn-group.btn-group-justified(role='group')
+        .btn-group: button#startButton.btn.btn-default(title="go to game start")
+            span.glyphicon.glyphicon-fast-backward
+        .btn-group: button#backButton.btn.btn-default(title="move back")
+            span.glyphicon.glyphicon-backward
+        .btn-group: button#autoplayButton.btn.btn-default(title="autoplay")
+            span.glyphicon.glyphicon-play
+        .btn-group: button#forwardButton.btn.btn-default(title="move forward")
+            span.glyphicon.glyphicon-forward
+        .btn-group: button#endButton.btn.btn-default(title="go to game end")
+            span.glyphicon.glyphicon-fast-forward
+
+mixin key-games(keygames)
+    .panel.panel-info
+        .panel-heading: h3.panel-title KEY GAMES
+        .panel-body
+            ul.list-group
+                for g in keygames
+                    li.list-group-item: a(href='/game/'+g.pgn target='_blank')= g.name

@@ -38,6 +38,7 @@ module.exports = function(req, res) {
                 res.render('detail', {
                     title: g.name,
                     pgnText: data,
+                    keygames: g.keygames || [],
                     initial: g.initial
                 });
             }

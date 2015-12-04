@@ -1,14 +1,5 @@
 extends layout
-
-mixin make-board(board)
-    .preview
-        each x in range
-            each y in range
-                -var className = (((x + y) % 2) === 0 ? 'white' : 'black') + 'Square';
-                .preview-square(class=className)
-                    -var val = board[(x*8)+y];
-                    if val
-                        img.img-responsive(src=val)
+include mixins
 
 mixin tab-content(results)
     for item in results
