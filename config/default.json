@@ -884,14 +884,39 @@
                         "initial": 12
                     },
                     {
-                        "name": "4. e3 e5 5. Bb4 Bd2 6. Bxc3 bxc3",
-                        "pgn": "chigorin-defense-cxd5-bd2-bxc3a",
-                        "initial": 12
+                        "name": "4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 Nf6 8. Qb3",
+                        "pgn": "chigorin-defense-cxd5-bd2-bxc3-qb3",
+                        "initial": 15
                     },
                     {
-                        "name": "4. Nf3 e5",
-                        "pgn": "chigorin-defense-cxd5-nf3",
-                        "initial": 8
+                        "name": "4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 Nf6 8. c4",
+                        "pgn": "chigorin-defense-cxd5-bd2-bxc3-c4",
+                        "initial": 15
+                    },
+                    {
+                        "name": "4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 Nf6 8. f3",
+                        "pgn": "chigorin-defense-cxd5-bd2-bxc3-f3",
+                        "initial": 15
+                    },
+                    {
+                        "name": "4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 Nf6 8. Nf3",
+                        "pgn": "chigorin-defense-cxd5-bd2-bxc3-nf3",
+                        "initial": 15
+                    },
+                    {
+                        "name": "4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 Nf6 8. Ne2",
+                        "pgn": "chigorin-defense-cxd5-bd2-bxc3-ne2",
+                        "initial": 15
+                    },
+                    {
+                        "name": "4. Nf3 e5 5. Nc3 Bb4 6. dxe5",
+                        "pgn": "chigorin-defense-cxd5-nf3-dxe5",
+                        "initial": 11
+                    },
+                    {
+                        "name": "4. Nf3 e5 5. Nc3 Bb4 6. e3",
+                        "pgn": "chigorin-defense-cxd5-nf3-e3",
+                        "initial": 11
                     }
                 ]
             },
@@ -900,9 +925,14 @@
                 "fen": "r1bqkbnr/ppp1pppp/2n5/8/2pP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4",
                 "v": [
                     {
-                        "name": "4. d5 Ne5 5. f4",
-                        "pgn": "chigorin-defense-nc3-d5-f4",
-                        "initial": 9
+                        "name": "4. d5 Ne5 5. f4!? Ng4 6. e4",
+                        "pgn": "chigorin-defense-nc3-d5-f4-e4",
+                        "initial": 11
+                    },
+                    {
+                        "name": "4. d5 Ne5 5. f4!? Ng4 6. h3",
+                        "pgn": "chigorin-defense-nc3-d5-f4-h3",
+                        "initial": 11
                     },
                     {
                         "name": "4. d5 Ne5 5. Bf4",
@@ -915,9 +945,44 @@
                         "initial": 9
                     },
                     {
-                        "name": "4. d5 Ne5 5. e4",
-                        "pgn": "chigorin-defense-nc3-d5-e4",
+                        "name": "4. e3 e5 5. d5",
+                        "pgn": "chigorin-defense-nc3-e3-d5",
                         "initial": 9
+                    },
+                    {
+                        "name": "4. Nf3 Nf6 5. Qa4",
+                        "pgn": "chigorin-defense-nc3-nf3-qa4",
+                        "initial": 9
+                    },
+                    {
+                        "name": "4. Nf3 Nf6 5. d5",
+                        "pgn": "chigorin-defense-nc3-nf3-d5",
+                        "initial": 9
+                    },
+                    {
+                        "name": "4. Nf3 Nf6 5. e3",
+                        "pgn": "chigorin-defense-nc3-nf3-e3",
+                        "initial": 9
+                    },
+                    {
+                        "name": "4. Nf3 Nf6 5. e3 e5 6. d5",
+                        "pgn": "chigorin-defense-nc3-nf3-e3-d5",
+                        "initial": 11
+                    },
+                    {
+                        "name": "4. Nf3 Nf6 5. Bg5",
+                        "pgn": "chigorin-defense-nc3-nf3-bg5",
+                        "initial": 9
+                    },
+                    {
+                        "name": "4. Nf3 Nf6 5. e4 Bg4 6. d5",
+                        "pgn": "chigorin-defense-nc3-nf3-e4-d5",
+                        "initial": 11
+                    },
+                    {
+                        "name": "4. Nf3 Nf6 5. e4 Bg4 6. Be3",
+                        "pgn": "chigorin-defense-nc3-nf3-be3",
+                        "initial": 11
                     }
                 ]
             },
@@ -925,6 +990,31 @@
                 "name": "Chigorin Defense, 3. Nf3 Bg4",
                 "fen": "r2qkbnr/ppp1pppp/2n5/3p4/2PP2b1/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4",
                 "v": [
+                    {
+                        "name": "4. Nc3 e6 5. e3",
+                        "pgn": "chigorin-defense-nf3-nc3-e3",
+                        "initial": 9
+                    },
+                    {
+                        "name": "4. Nc3 e6 5. Bf4",
+                        "pgn": "chigorin-defense-nf3-nc3-bf4",
+                        "initial": 9
+                    },
+                    {
+                        "name": "4. Nc3 e6 5. Bg5",
+                        "pgn": "chigorin-defense-nf3-nc3-bg5",
+                        "initial": 9
+                    },
+                    {
+                        "name": "4. Nc3 e6 5. Qa4!?",
+                        "pgn": "chigorin-defense-nf3-nc3-qa4",
+                        "initial": 9
+                    },
+                    {
+                        "name": "4. Nc3 e6 5. cxd5",
+                        "pgn": "chigorin-defense-nf3-nc3-cxd5",
+                        "initial": 9
+                    },
                     {
                         "name": "4. cxd5 Bxf3 5. dxc6",
                         "pgn": "chigorin-defense-nf3-cxd5-dxc6",
@@ -941,13 +1031,52 @@
                 "name": "Chigorin Defense, 3. e3 e5",
                 "fen": "r1bqkbnr/ppp2ppp/2n5/3pp3/2PP4/4P3/PP3PPP/RNBQKBNR w KQkq - 0 4",
                 "v": [
+                    {
+                        "name": "4. dxe5 d4 5. a3",
+                        "pgn": "chigorin-defense-e3-dxe5-a3",
+                        "initial": 11
+                    },
+                    {
+                        "name": "4. dxe5 d4 5. Nf3",
+                        "pgn": "chigorin-defense-e3-dxe5-nf3",
+                        "initial": 11
+                    },
+                    {
+                        "name": "5. dxe5 d4 6. exd4",
+                        "pgn": "chigorin-defense-e3-dxe5-nf3",
+                        "initial": 11
+                    },
+                    {
+                        "name": "5. dxe5 d4 6. Be2",
+                        "pgn": "chigorin-defense-e3-dxe5-be2",
+                        "initial": 11
+                    }
                 ]
             },
             {
                 "name": "Chigorin Defense, Misc.",
                 "fen": "r1bqkbnr/ppp1pppp/2n5/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3",
                 "v": [
-
+                    {
+                        "name": "3. g3",
+                        "pgn": "chigorin-defense-misc-g3",
+                        "initial": 5
+                    },
+                    {
+                        "name": "3. Bf4",
+                        "pgn": "chigorin-defense-misc-bf4",
+                        "initial": 5
+                    },
+                    {
+                        "name": "3. e3",
+                        "pgn": "chigorin-defense-misc-e3",
+                        "initial": 5
+                    },
+                    {
+                        "name": "3. Nc3",
+                        "pgn": "chigorin-defense-misc-nc3",
+                        "initial": 5
+                    }
                 ]
             },
             {
