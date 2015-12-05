@@ -1,0 +1,30 @@
+[Event "Chigorin"]
+[Site "ICC"]
+[Date "????.??.??"]
+[Round ""]
+[White "jaws"]
+[Black "Morozevich, A"]
+[Result "*"]
+[ECO "D07t"]
+
+1.d4 d5 2.c4 Nc6 3.Nc3 dxc4 4.d5 Ne5 5.f4 Ng4 6.e4 e5 7.f5 
+    ( 7.fxe5 Nxe5 8.Bf4 Bd6 9.Nf3 Bg4 10.Bxe5 Bxe5 11.Qa4+ Bd7 12.Qxc4 Qe7
+    13.O-O-O Nf6 {with counterplay} )
+    ( 7.Be2 N8h6 8.f5 Bc5 9.Qa4+ Bd7 10.Qxc4 Bxg1 11.Rxg1 Qh4+ 12.g3 Qxh2 
+    $17 )
+    ( 7.Nf3 Bc5 8.Bxc4 exf4 9.Bxf4 N8f6 10.e5 O-O 11.exf6 Qxf6 $13 )
+7...N8h6 8.Nf3 
+    ( 8.h3 Qh4+ 9.Kd2 Nf2 10.Qe1 Bb4 11.g4 Qg3 12.Bxc4 Nxh1 13.Ne2 Qxh3 
+    14.Kc2 Nxg4 15.Bb5+ Bd7 16.Bxd7+ Kxd7 )
+    ( 8.Qa4+ Bd7 9.Qxc4 Be7 $10 )
+    ( 8.Bxc4 Bc5 9.Bxh6 
+        ( 9.Nh3 Qh4+ 10.Kf1 Ne3+ 11.Bxe3 Bxe3 12.Bb5+ c6 13.dxc6 O-O 14.
+        Qf3 Bd4 15.c7 Ng4 16.Re1 a6 17.Ba4 b5 18.Bd1 Nf6 19.Nf2 Ra7 $17 )
+    9...Nxh6 10.Nf3 Ng4 11.Qe2 O-O 12.h3 Ne3 13.Bb3 a6 14.Na4 Ba7 15.Rc1 
+    Qd6 16.Rc3 b5 17.Rxe3 bxa4 18.Bd1 Rb8 )
+    ( 8.Be2 Bc5 9.Bxg4 Qh4+ 10.g3 Qxg4 11.Bxh6 Qxd1+ 12.Rxd1 gxh6 13.Nf3 
+    f6 14.Nd2 Bd7 15.Nxc4 $10 )
+8...Bc5 9.Qa4+ 
+    ( 9.Bxc4 O-O )
+9...Bd7 10.Qxc4 Bf2+ 11.Ke2 Bb6 12.h3 Nf2 13.Rh2 Nxf5 14.exf5 Bxf5 $13 *
+

@@ -1,0 +1,19 @@
+[Event "Chigorin "]
+[Site "Moscow"]
+[Date "????.??.??"]
+[Round ""]
+[White "Karpov, A"]
+[Black "Morozevich, A"]
+[Result "*"]
+[ECO "D07t"]
+
+1.d4 d5 2.c4 Nc6 3.Nc3 dxc4 4.d5 Ne5 5.Bf4 Ng6 6.Bg3 e5 7.e4 a6 8.Bxc4 Bd6
+9.Nf3 Nf6 10.O-O O-O 
+    ( 10...Nh5 11.Nxe5 Nxg3 12.Nxg6 hxg6 13.hxg3 Qg5 14.Qd4 Qh5 15.f4 b6 
+    16.b4 g5 17.e5 Bxb4 18.Bb5+ axb5 19.Qxb4 Qh2+ 20.Kf2 $13 )
+11.Re1 Bd7 12.Rc1 Rb8 13.a3 h6 14.Bf1 Qe7 15.Nh4 Nxh4 16.Bxh4 g5 17.Bg3 c5
+18.dxc6 Bxc6 19.Bc4 Bc5 20.Qf3 Bd4 21.h4 g4 22.Qf5 Kg7 23.Nd5 Bxd5 24.exd5
+Rfe8 25.Be2 Rbd8 26.Bxg4 Rxd5 27.Rc4 e4 28.Qxd5 Nxd5 29.Rxd4 Nf6 30.Be2 
+Qc5 31.Rc4 Qf5 32.Rc7 Qa5 33.Rd1 e3 34.f3 Nh5 35.Bh2 Qb6 36.b4 Qf6 37.Rc4 
+Qb2 38.Kf1 Qxa3 39.Bd6 Re6 *
+

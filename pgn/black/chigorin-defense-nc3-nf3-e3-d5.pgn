@@ -1,0 +1,26 @@
+[Event "Chigorin"]
+[Site "Germany Bundesliga"]
+[Date "????.??.??"]
+[Round ""]
+[White "Beliavsky, A"]
+[Black "Morozevich, A"]
+[Result "*"]
+[ECO "D07v"]
+
+1.d4 d5 2.c4 Nc6 3.Nc3 dxc4 4.Nf3 Nf6 5.e3 e5 6.d5 Ne7 7.Bxc4 Ng6 8.h4 
+    ( 8.Qa4+ Bd7 9.Qb3 Bd6 
+        ( 9...Rb8 $2 10.d6 )
+    10.Qxb7 
+        ( 10.Bd2 O-O 11.h3 a6 12.Qxb7 e4 13.Nd4 Ne5 {with attack} )
+    10...O-O 11.Qb3 
+        ( 11.O-O e4 12.Nd4 Bxh2+ 13.Kxh2 Ng4+ 14.Kg1 Qh4 15.Qxc7 N6e5 $19 
+        )
+    11...e4 12.Nd4 Re8 13.Bd2 Ne5 )
+    ( 8.e4 Bd6 9.h3 a6 10.O-O Bd7 11.Re1 h6 12.Bf1 Nh7 13.Be3 Ng5 14.Nd2 
+    O-O 15.Bd3 Qf6 16.Nc4 Nf4 {with counterplay} )
+8...Bd6 9.h5 Nf8 10.h6 g6 11.e4 $6 
+    ( 11.Bb5+ )
+    ( 11.Nb5 Bg4 12.Qa4 N8d7 13.Nxd6+ cxd6 14.Nh2 O-O 15.Nxg4 Nxg4 16.Be2 
+    f5 17.Bxg4 Nb6 18.Qb4 a5 $13 )
+11...N8d7 $10 *
+

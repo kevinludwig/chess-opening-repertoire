@@ -1,0 +1,27 @@
+[Event "Chigorin"]
+[Site "St. Petersburg"]
+[Date "????.??.??"]
+[Round ""]
+[White "Gleizerov, E"]
+[Black "Morozevich, A"]
+[Result "*"]
+[ECO "D07v"]
+
+1.d4 d5 2.c4 Nc6 3.Nc3 dxc4 4.Nf3 Nf6 5.e3 e5 
+    ( 5...Bg4 $6 6.Bxc4 a6 7.d5 Ne5 8.Be2 Nxf3+ 9.Bxf3 Bxf3 10.Qxf3 g6 11.
+    O-O Bg7 12.e4 O-O 13.Bf4 $16 )
+6.Bxc4 
+    ( 6.dxe5 Qxd1+ 7.Nxd1 Bb4+ 8.Bd2 Bxd2+ 9.Kxd2 Ng4 $10 )
+    ( 6.Nxe5 Nxe5 7.dxe5 Qxd1+ 8.Nxd1 Bb4+ 9.Bd2 Bxd2+ 10.Kxd2 Ne4+ 11.Ke1
+    Be6 12.f3 Nc5 $15 )
+6...exd4 7.exd4 
+    ( 7.Qb3 $6 dxc3 8.Bxf7+ Ke7 9.bxc3 Ne4 10.Ba3+ Kf6 $17 )
+7...Bd6 8.O-O 
+    ( 8.Qe2+ Qe7 9.Qxe7+ Nxe7 10.O-O O-O 
+        ( 10...c6 11.Re1 O-O 12.Bg5 Ned5 13.Bxd5 Nxd5 
+            ( 13...cxd5 14.Bxf6 gxf6 15.Nxd5 $16 )
+        14.Nxd5 cxd5 15.Be7 Bxe7 16.Rxe7 b6 17.Rc1 $14 )
+    11.Re1 h6 12.Ne5 Be6 13.Bxe6 fxe6 14.Nc4 Kf7 15.Nxd6+ cxd6 16.Bf4 Rfd8
+    $10 )
+8...O-O 9.h3 h6 10.a3 Bf5 11.b4 a6 *
+
