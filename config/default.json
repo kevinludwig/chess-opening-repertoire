@@ -250,7 +250,17 @@
                     {
                         "name": "3. ...Bg4 4. cxd5 Bxf3",
                         "pgn": "chigorin-bg4",
-                        "initial": 6
+                        "initial": 6,
+                        "keygames": [
+                            {
+                                "name": "Kasparov-Smyslov, Vilnius (1984)",
+                                "pgn": "kasparov-smyslov-vilnius-1984"
+                            },
+                            {
+                                "name": "Saidy-Al Modiahki Las Vegas (2001)",
+                                "pgn": "saidy-al-modiahki-las-vegas-2001"
+                            }
+                        ]
                     }
                 ]
             },
