@@ -1037,8 +1037,13 @@
                         "initial": 9
                     },
                     {
-                        "name": "4. Nc3 e6 5. Qa4!?",
-                        "pgn": "chigorin-defense-nf3-nc3-qa4",
+                        "name": "4. Qa4 Bxf3 5. gxf3",
+                        "pgn": "chigorin-defense-nf3-qa4-gxf3",
+                        "initial": 9
+                    },
+                    {
+                        "name": "4. Qa4 Bxf3 5. exf3",
+                        "pgn": "chigorin-defense-nf3-qa4-exf3",
                         "initial": 9
                     },
                     {
