@@ -1,5 +1,5 @@
-1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 Nf6 8. c4 Qd6 9. d5 Ne7 10. Qb1 0-0 
-11. Nf3 
-(11. Bb4 c5 12. Bc3 (12. dxc6 Qc7 13. cxb7 Bxb7 {black has compensation}) 12. ...b6)
-(11. e4 $6 Nd7 12. Bd3 (12. Bb4 Nc5 13. Nf3 b6) Nc5 13. Ne2 f5 14. 0-0 f4 $5 15. f3 g5 {black has kingside counterplay})
-11. ...Re8 12. Be2 Ng6 13. 0-0 {small advantage to white} 
+1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 Nf6 8. c4 Qd6 9. d5 Ne7 10. Qb1 0-0
+11. Nf3
+(11. Bb4 c5 12. Bc3 (12. dxc6 Qc7 13. cxb7 Bxb7 $45) 12. ...b6)
+(11. e4 $6 Nd7 12. Bd3 (12. Bb4 Nc5 13. Nf3 b6) Nc5 13. Ne2 f5 14. 0-0 f4 $5 15. f3 g5 $133)
+11. ...Re8 12. Be2 Ng6 13. 0-0 $14

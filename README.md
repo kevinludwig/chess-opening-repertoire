@@ -26,10 +26,37 @@ Kings Gambit: d4 and c4
 Vienna Game
 Blackmar-Diemer Gambit
 Stonewall
-Danish Gambit 
+Danish Gambit
 Scotch Gambit
 Scotch game (find resource)
 Pirc
+
+# NAG symbols reference
+
+* $1 strong move
+* $2 mistake
+* $3 very good move
+* $4 blunder
+* $5 interesting move
+* $6 questionable move
+* $10 equal position
+* $13 unclear position
+* $14 small white advantage
+* $15 small black advantage
+* $16 clear white advantage
+* $17 clear black advantage
+* $18 decisive white advantage
+* $19 decisive black advantage
+* $36 white has initiative
+* $37 black has initiative
+* $40 white has attack
+* $41 black has attack
+* $42 insufficent compensation for white
+* $43 insufficient compensation for black
+* $44 white has compensation
+* $45 black has compensation
+* $132 white has counterplay
+* $133 black has counterplay
 
 # PGN4WEB Modifications
 

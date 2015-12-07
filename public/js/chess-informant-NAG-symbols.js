@@ -11,10 +11,7 @@ if ((typeof(blockChessInformantNAGSymbols) != "boolean") || (!blockChessInforman
 
   if (typeof(ii) == "undefined") { var ii; }
 
-  var jsre = new RegExp("chess-informant-NAG-symbols\.js$", "");
-  var FontPath = detectJavascriptLocation(jsre).replace(jsre, "");
-
-  document.write('<link href="' + FontPath + 'pgn4web-font-ChessInformantReader.css" type="text/css" rel="stylesheet" />');
+  document.write('<link href="/css/pgn4web-font-ChessInformantReader.css" type="text/css" rel="stylesheet" />');
   document.write('<style type="text/css">.NAGs, .NAGl { font-family: "pgn4web ChessInformantReader"; line-height: 1em; }</style>');
 
   var Ns = '<span class="NAGs">';
