@@ -1,5 +1,3 @@
-81. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Bf4 e6 5. e3 Bb4+ 6. Nc3 Nf6 7. Rc1 0-0 8. h3
-(8. Be2 dxc4 9. Bxc4 Nd5 10. Bg3 e5 11. dxe5 Nxc3 12. bxc3 Qxd1+ 13. Kxd1 Ba3 14. Rb1 Na5 15. Bd3 Rfd8 16. Kc2 +=)
-(8. Bg5 h6 9. Bxf6 Qxf6 10. cxd5 exd5 11. Be2 Qe6 12. 0-0 Rfd8 13. Qb3 Bf8 14. Na4 Na5 15. Qc3 b6 16. Rfe1 c6 17. Ne5 Bxe2 18. Rxe2 Rac8 19. Rec2 Bd6 20. Nd3 Qe7 {with counterplay})
-(8. a3)
-8. ...Bxf3 9. Qxf3 Qe7 10. Bg5 Bxc3+ 11. Rxc3 Qb4 12. Bxf6 Qxb2 13. Rb3
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Nc3 e6 5. e3 Bb4 6. Bd2 
+(6. cxd5 exd5 7. Be2 Nf6 8. 0-0 0-0 9. Bd2 Re8 10. Rc1 Bxc3 11. Bxc3 Ne4 12. Be1 Re6 13. h3 Bh5 14. b4 a6 15. a3 Bxf3 16. Bxf3 Nge7 17. Bxe4 dxe4 18. f3 Nd5 19. Bd2 Qe7 20. f4 f5 21. a4 g5 {with attack})
+6. ...Nge7 7. Bd3 Bf5 8. Bxf5 Nxf5 9. cxd5 exd5 10. Qb3 Bxc3 11. Bxc3 Rb8 12. 0-0 0-0 13. Rc1 Re8 14. Bd2 Re6 {a Carlsbad-like structure, where black's chances are on the kingside, and white's are on the queenside}
