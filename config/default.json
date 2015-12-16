@@ -770,6 +770,16 @@
                         "name": "4. Nxe5 Nxe5 5. d4",
                         "pgn": "four-knights-halloween",
                         "initial": 10
+                    },
+                    {
+                        "name": "4. d4 exd4 5. Nd5 Be7 6. Bf4 (Belgrade Gambit)",
+                        "pgn": "four-knights-belgrade",
+                        "initial": 11
+                    },
+                    {
+                        "name": "4. d4 exd4 5. Nd5 Be7 6. Bc4 (Trajkovic Gambit)",
+                        "pgn": "four-knights-belgrade-trajkovic",
+                        "initial": 11
                     }
                 ]
             },
@@ -866,7 +876,21 @@
                 "name": "Danish Gambit",
                 "fen": "rnbqkbnr/pppp1ppp/8/8/2B1P3/8/PB3PPP/RN1QK1NR b KQkq - 0 5",
                 "v": [
-
+                    {
+                        "name": "7. Nc3",
+                        "pgn": "danish-gambit-nc3",
+                        "initial": 13
+                    },
+                    {
+                        "name": "7. 0-0",
+                        "pgn": "danish-gambit-00",
+                        "initial": 13
+                    },
+                    {
+                        "name": "7. Qb3",
+                        "pgn": "danish-gambit-qb3",
+                        "initial": 13
+                    }
                 ]
             },
             {
