@@ -762,6 +762,16 @@
                 "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4",
                 "v": [
                     {
+                        "name": "4. a3",
+                        "pgn": "four-knights-a3",
+                        "initial": 8
+                    },
+                    {
+                        "name": "4. g3 (Glek system)",
+                        "pgn": "four-knights-glek",
+                        "initial": 8
+                    },
+                    {
                         "name": "4. Bc4 Nxe4",
                         "pgn": "four-knights-bc4",
                         "initial": 8
@@ -780,6 +790,26 @@
                         "name": "4. d4 exd4 5. Nd5 Be7 6. Bc4 (Trajkovic Gambit)",
                         "pgn": "four-knights-belgrade-trajkovic",
                         "initial": 11
+                    },
+                    {
+                        "name": "4. d4 exd4 5. Nxd4 Bc5 6. Nxc6",
+                        "pgn": "four-knights-d4-nxd4-nxc6",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. d4 exd4 5. Nxd4 Bc5 6. Be3",
+                        "pgn": "four-knights-d4-nxd4-be3",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. Bb5 Bd6 5. 0-0",
+                        "pgn": "four-knights-bb5-00",
+                        "initial": 10
+                    },
+                    {
+                        "name": "4. Bb5 Bd6 5. d3",
+                        "pgn": "four-knights-bb5-d3",
+                        "initial": 10
                     }
                 ]
             },
