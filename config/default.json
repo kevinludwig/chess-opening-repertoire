@@ -863,33 +863,48 @@
             },
             {
                 "name": "Goring Gambit",
-                "fen": "r1bqk1nr/ppp2ppp/2np4/8/2B1P3/2P2N2/P4PPP/R1BQK2R w KQkq - 0 8",
+                "fen": "r1bqkbnr/pppp1ppp/2n5/8/4P3/2p2N2/PP3PPP/RNBQKB1R w KQkq - 0 5",
                 "v": [
                     {
-                        "name": "8. Qb3",
+                        "name": "5. Nxc3 Bb4 6. Bc4 Bxc3+ 7. bxc3 d6 8. Qb3",
                         "pgn": "goring-gambit-qb3-qe7",
                         "initial": 16
+                    },
+                    {
+                        "name": "5. Bc4 cxb2 6. Bxb2 d6 7. Nc3",
+                        "pgn": "goring-gambit-bc4-nc3",
+                        "initial": 14
+                    },
+                    {
+                        "name": "5. Bc4 cxb2 6. Bxb2 d6 7. 0-0",
+                        "pgn": "goring-gambit-bc4-00",
+                        "initial": 14
+                    },
+                    {
+                        "name": "5. Bc4 cxb2 6. Bxb2 d6 7. Qb3",
+                        "pgn": "goring-gambit-bc4-qb3",
+                        "initial": 14
                     }
                 ]
             },
             {
                 "name": "Danish Gambit",
-                "fen": "rnbqkbnr/pppp1ppp/8/8/2B1P3/8/PB3PPP/RN1QK1NR b KQkq - 0 5",
+                "fen": "rnb1kbnr/ppppqppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq - 0 4",
                 "v": [
                     {
-                        "name": "7. Nc3",
-                        "pgn": "danish-gambit-nc3",
-                        "initial": 13
+                        "name": "4. cxd4",
+                        "pgn": "danish-gambit-cxd4",
+                        "initial": 8
                     },
                     {
-                        "name": "7. 0-0",
-                        "pgn": "danish-gambit-00",
-                        "initial": 13
+                        "name": "4. Bd3",
+                        "pgn": "danish-gambit-bd3",
+                        "initial": 8
                     },
                     {
-                        "name": "7. Qb3",
-                        "pgn": "danish-gambit-qb3",
-                        "initial": 13
+                        "name": "4. Qxd4",
+                        "pgn": "danish-gambit-qxd4",
+                        "initial": 8
                     }
                 ]
             },
