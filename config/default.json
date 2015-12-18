@@ -942,7 +942,16 @@
                 "name": "English, 2. g3",
                 "fen": "r1bqkb1r/pp1p1ppp/n1p2n2/8/2PQ4/6P1/PP2PPBP/RNB1K1NR w KQkq - 0 6",
                 "v": [
-
+                    {
+                      "name": "6. Nf3 Bc5 7. Qd1",
+                      "pgn": "english-g3-qd1",
+                      "initial": 14
+                    },
+                    {
+                        "name": "6. Nc3 Bc5 7. Qe5+",
+                        "pgn": "english-g3-qe5",
+                        "initial": 14
+                    }
                 ]
             },
             {
