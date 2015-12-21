@@ -1,0 +1,18 @@
+[Event "Berlin Game 5"]
+[Site "Moscow"]
+[Date "2002.??.??"]
+[Round ""]
+[White "Polgar, J"]
+[Black "Grischuk, A"]
+[Result "*"]
+[WhiteElo "2677"]
+[BlackElo "2702"]
+[ECO "C65j"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.O-O 
+    ( 5.Bxc6 dxc6 6.Be3 Bxe3 7.fxe3 Qe7 8.Nbd2 O-O 9.Qe2 Nd7 10.O-O a5 11.
+    d4 c5 12.c3 b6 13.Qf2 Ba6 14.Rfe1 Rae8 15.Qg3 Kh8 16.Rad1 g6 17.h3 $10
+    )
+5...d6 6.h3 O-O 7.Nc3 Nd4 8.Nxd4 Bxd4 9.Ne2 Bb6 10.Ng3 c6 11.Ba4 Nd7 12.c3
+Nc5 13.Bc2 Ne6 14.Kh1 g6 15.Kh2 Qh4 16.Qf3 Kg7 {Ng5 is next} *
+
