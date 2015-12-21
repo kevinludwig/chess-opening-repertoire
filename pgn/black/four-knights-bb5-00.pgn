@@ -1,0 +1,7 @@
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bd6 5. 0-0
+(5. d4 exd4 6. Nxd4 Nxd4 7. Qxd4 Qe7 8. 0-0 0-0 $10 {planning c6, Be5}
+5. ...0-0 6. d3
+(6. Re1 Re8 7. h3 Nd4 $1 8. Bc4 c6 9. a3 Bc5 $15)
+6. ...h6 7. h3 $6
+(7. Ne2 Re8 8. Ng3 Bf8 9. c4 {else 9. ...d5} d6 10. h3 a6 11. Ba4 Rb8 $10 {black will play b5})
+7. ...Re8 {with Bf8 next}

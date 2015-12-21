@@ -17,17 +17,11 @@ QGA early deviations
 Dutch Lenningrad (find resource on main line)
 Dutch Stonewall (find resource on main line)
 Dutch Classical
-Old Benoni
 
-Chigorin for black
 Berlin for black
-Four Knights: Glek and Bb5
-Kings Gambit: d4 and c4
 Vienna Game
 Blackmar-Diemer Gambit
 Stonewall
-Danish Gambit
-Scotch Gambit
 Scotch game (find resource)
 Pirc
 
