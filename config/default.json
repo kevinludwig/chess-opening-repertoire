@@ -337,9 +337,34 @@
                 "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PPQ1PPPP/R1B1KBNR b KQkq - 0 4",
                 "v": [
                     {
-                        "name": "4. ...d5",
-                        "pgn": "nimzo-indian-d5",
-                        "initial": 8
+                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 c5",
+                        "pgn": "nimzo-indian-d5-bxc3-c5",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 dxc4",
+                        "pgn": "nimzo-indian-d5-bxc3-dxc4",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5",
+                        "pgn": "nimzo-indian-d5-bxc3-ne4-c5",
+                        "initial": 14
+                    },
+                    {
+                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 Nc6",
+                        "pgn": "nimzo-indian-d5-bxc3-ne4-nc6",
+                        "initial": 14
+                    },
+                    {
+                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 e5",
+                        "pgn": "nimzo-indian-d5-bxc3-ne4-e5",
+                        "initial": 14
+                    },
+                    {
+                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 0-0",
+                        "pgn": "nimzo-indian-d5-bxc3-ne4-00",
+                        "initial": 14
                     },
                     {
                         "name": "4. ...c5",
