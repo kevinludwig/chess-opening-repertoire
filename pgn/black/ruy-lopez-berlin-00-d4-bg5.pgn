@@ -1,0 +1,28 @@
+[Event "Berlin Game 9"]
+[Site "European Team Championship"]
+[Date "2001.??.??"]
+[Round ""]
+[White "Socko, B"]
+[Black "Lautier, J"]
+[Result "*"]
+[WhiteElo "2564"]
+[BlackElo "2653"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bg5 f6 $1 7.dxe5 
+    ( 7.Bxc6 dxc6 8.dxe5 fxg5 9.exd6 Bxd6 10.Re1+ Kf7 11.Nc3 g4 12.Ne5+ 
+    Bxe5 13.Rxe5 Qxd1+ 14.Rxd1 Kf6 )
+    ( 7.Nxe5 fxg5 8.Bxc6 dxc6 9.Qh5+ g6 10.Nxg6 Bg4 11.Re1+ Be7 12.Qxg5 
+    hxg6 13.Qxg6+ Kf8 14.Qxg4 Rh4 {Nf7 is next} )
+7...Nxb5 8.exf6 
+    ( 8.Bh4 Be7 9.a4 fxe5 10.axb5 Bxh4 11.bxc6 dxc6 12.Qe2 Bf6 $17 )
+8...gxf6 9.Re1+ 
+    ( 9.Bf4 Be7 10.Nh4 Nd6 11.Bxd6 Bxd6 12.Qh5+ Kf8 13.Ng6+ Kg7 14.Nxh8 
+    Kxh8 )
+9...Kf7 10.Qd5+ 
+    ( 10.Bf4 d5 11.Nh4 Kg8 12.Qh5 Qd7 13.c4 Nd6 14.Qxd5+ Nf7 )
+10...Kg7 11.Bf4 Nd6 12.Nh4 Rg8 13.Nc3 
+    ( 13.Bxd6 Bxd6 14.Nf5+ Kh8 15.Nxd6 cxd6 16.Qxd6 b6 )
+13...Kh8 14.Qh5 Nd4 15.Nd5 Nxc2 16.Nxf6 Qxf6 17.Be5 Bg7 18.Bxf6 Bxf6 19.
+Qf3 Bxb2 20.Qe2 Bxa1 21.Qxc2 Bf6 22.Qxc7 Re8 23.Rxe8+ Nxe8 24.Qc4 d5 25.
+Qxd5 Bxh4 26.Qe4 Bxf2+ 27.Kxf2 Ng7 *
+

@@ -1,0 +1,15 @@
+[Event "Berlin Game 8"]
+[Site "USA"]
+[Date "1886.??.??"]
+[Round ""]
+[White "Steinitz, W"]
+[Black "Zukertort, J"]
+[Result "*"]
+[ECO "C67d"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bxc6 dxc6 8.
+Qe2 Be6 9.d3 
+    ( 9.d4 Nf5 10.c3 c5 $15 {undoubling the pawns} )
+9...Nf5 10.Nd2 O-O 11.c3 Re8 12.Ne4 Qd5 13.Bf4 Rad8 14.d4 Nd6 15.Nc5 Bc8 
+16.Ncd3 Bf8 *
+

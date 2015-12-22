@@ -1,0 +1,20 @@
+[Event "Berlin Game 11"]
+[Site "Cappelle La Grande"]
+[Date "2000.??.??"]
+[Round ""]
+[White "Moraru, M"]
+[Black "Yemelin, V"]
+[Result "*"]
+[WhiteElo "2340"]
+[BlackElo "2540"]
+[ECO "C67q"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 
+    ( 7.Nxe5 Be7 $15 )
+7...Nf5 8.Qe2 $6 Nd4 9.Nxd4 Qxd4 10.Rd1 
+    ( 10.h3 Be6 11.Rd1 Qc4 12.Rd3 Rd8 13.b3 Qh4 14.Re3 $2 Bc5 $17 )
+10...Qg4 11.Nc3 
+    ( 11.f3 Qg6 12.Be3 Bf5 $15 )
+11...Qxe2 12.Nxe2 Bf5 13.c3 Bd7 14.Be3 O-O-O 15.Rd2 Be7 16.Rad1 a5 17.h3 
+h5 18.Ng3 Be6 19.Rxd8+ Bxd8 *
+
