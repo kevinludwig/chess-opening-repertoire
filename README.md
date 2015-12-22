@@ -18,12 +18,10 @@ Dutch Lenningrad (find resource on main line)
 Dutch Stonewall (find resource on main line)
 Dutch Classical
 
-Berlin for black
 Vienna Game
 Blackmar-Diemer Gambit
 Stonewall
 Scotch game (find resource)
-Pirc
 
 # NAG symbols reference
 
