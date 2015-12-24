@@ -367,14 +367,44 @@
                         "initial": 14
                     },
                     {
-                        "name": "4. ...c5",
-                        "pgn": "nimzo-indian-c5",
-                        "initial": 8
+                        "name": "4. ...c5 5. dxc5 Bxc5",
+                        "pgn": "nimzo-indian-c5-bxc5",
+                        "initial": 10
                     },
                     {
-                        "name": "4. ...0-0",
-                        "pgn": "nimzo-indian-00",
-                        "initial": 8
+                        "name": "4. ...c5 5. dxc5 Na6",
+                        "pgn": "nimzo-indian-c5-na6",
+                        "initial": 10
+                    },
+                    {
+                        "name": "4. ...c5 5. dxc5 Nc6",
+                        "pgn": "nimzo-indian-c5-nc6",
+                        "initial": 10
+                    },
+                    {
+                        "name": "4. ...c5 5. dxc5 0-0",
+                        "pgn": "nimzo-indian-c5-00",
+                        "initial": 10
+                    },
+                    {
+                        "name": "4. ...0-0 5. a3 Bxc3+ 6. Qxc3 Ne4",
+                        "pgn": "nimzo-indian-00-ne4",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. ...0-0 5. a3 Bxc3+ 6. Qxc3 b6",
+                        "pgn": "nimzo-indian-00-b6",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. ...0-0 5. a3 Bxc3+ 6. Qxc3 Qe8",
+                        "pgn": "nimzo-indian-00-qe8",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. ...0-0 5. a3 Bxc3+ 6. Qxc3 b5",
+                        "pgn": "nimzo-indian-00-b5",
+                        "initial": 12
                     },
                     {
                         "name": "4. ...Nc6",

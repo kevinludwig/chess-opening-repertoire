@@ -1,0 +1,23 @@
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 0-0 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 
+(7. ...c5 8. dxc5 bxc5 9. e3 a5 10. f3 d6 11. Rd1 Ra6 12. Qc2 Nbd7 13. Ne2 Rb6 14. Nc3 h6 15. Bh4 Ba6 16. Be2 Qc7 17. a4 $1 $16)
+(7. ...d6 8. f3 Nbd7 9. Nh3 c5 10. e4 h6 11. Be3 Ba6 12. dxc5 $1 Nxc5 13. Rd1 $14)
+(7. ...Ba6 {black is going to play d6, Nbd7, c5, Rc8 and play against the c4 pawn} 8. e3 d6 9. Bd3 Nbd7 10. Ne2 c5 11. Qc2 h6 12. Bh4 Rc8 13. Qa4 Bb7 14. 0-0 $14 {white will regroup with Nc3, Rfc1, and Qd1})
+8. e3 d6 9. Ne2 Nbd7 
+(9. ...c5 10. dxc5 dxc5 (10. ...bxc5 11. Rd1 Nbd7 12. Rxd6 Qb8 $13) 11. Qc2 h6 12. Bh4 Qe7 13. 0-0-0 Rd8 14. Rxd8+ Qxd8 15. Nc3 $14)
+10. Qd3 {white is going to play Nc3 and e4, and black must disrupt this somehow} Ba6 $5
+(10. ...c5 $5 11. Nc3 Qe7 12. Rd1 Rfd8 13. d5 Ne5 14. Qc2 h6 15. Bh4 Ng6 16. Bg3 Nh5 17. Be2 Nxg3 18. hxg3 exd5 19. Nxd5 Bxd5 20. Rxd5 $14 {white's plan is to advance on the kingside to create a passer, where black will have an exposed king. Black's majority is crippled.}) 
+11. b4 $5 c5 
+(11. ...d5 12. b5 dxc4 13. Qxc4 Bb7 14. Rc1 Rc8 15. Qa4 e5 16. Qxa7 Bd5 17. Qa4 $14 {black doesn't have enough compensation})
+12. b5 Bb7 13. Nc3 a6 
+(13. ...Qe7 14. f3 h6 15. Bh4 cxd4 16. Qxd4 Nc5 17. Rd1 Rfd8 $13)
+(13. ...Rc8 14. d5 exd5 15. cxd5 Re8 16. Be2 h6 17. Bh4 c4 $13)
+(13. ...h6 14. Bh4 Rc8 15. d5 Ne5 16. Qd1 $13)
+14. f3 h6 15. Bh4 Qe7
+(15. ...axb5 16. Nxb5 d5 17. cxd5 exd5 18. Be2 $14)
+16. Be2 cxd4 17. Qxd4 e5 
+(17. ...Nc5 18. Rd1 Rfd8 19. e4 e5 20. Qe3 $14 Ng4 $2 21. Qxh6)
+18. Qd1 $1 {a later Nc5 doesn't come with tempo} g5
+(18. ...Nc5 19. Nd5 $14)
+19. Bg3 axb5 20. Nxb5 d5 21. 0-0 Rac8 22. Qb3 Qe6 23. cxd5 Bxd5 
+(23. ...Nxd5 24. Bc4 Qc6 25. Rac1 Nc5 26. Qb1 Nxe3 27. Na7 Qf6 28. Rfe1 Nxc4 29. Nxc8 Bxc8 30. Rxc4 $16)
+24. Qb2 Bc4 25. Rfd1 $13 

@@ -12,7 +12,6 @@ I'm hosting it here: (http://chess-endgames.rhcloud.com)
 
 # TODO
 
-Nimzo Indian
 QGA early deviations
 Dutch Lenningrad (find resource on main line)
 Dutch Stonewall (find resource on main line)
