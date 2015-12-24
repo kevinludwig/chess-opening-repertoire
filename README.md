@@ -2,7 +2,7 @@
 
 A way to manage and review my opening repertoire.
 
-I'm hosting it here: (http://chess-endgames.rhcloud.com)
+I'm hosting it here: (http://mco.kevinludwig.rhcloud.com)
 
 # Installation and setup
 
