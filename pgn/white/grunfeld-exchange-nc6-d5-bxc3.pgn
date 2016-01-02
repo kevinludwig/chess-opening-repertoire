@@ -3,5 +3,6 @@
 (12. ...Nb8 $6 13. h4 e6 14. h5 Qf6 15. hxg6 hxg6 16. e5 Qg7 17. dxe6 Bxe6 18. Rxb7 Nc6 19. Qd6 $16) 
 13. h4 Bg4 
 (13. ...f6 14. h5 g5 15. Qc3 $1 b6 16. h6 Rf7 17. Rd1 $1 Qd6 $1 18. Rh5 $1 Bg4 19. e5 $1 Qb8 20. Nxg5 Bxh5 21. Bxh5 Rf8 22. d6 $18)
-14. Ng5 Bxe2 15. Kxe2 e6 16. h5 Nc4 (16. ...h6? 17. Nh7 $18) 17. Qc1 exd5 18. hxg6 fxg6 19. Rxh7 Qf6 20. f4 $18 
-{white plans Rb3 -> Rh3}
+14. Ng5 Bxe2 15. Kxe2 e6 16. h5 Nc4 (16. ...h6? 17. Nh7 $18) 17. Qc1 exd5 18. hxg6 fxg6 19. Rxh7 $1 Qf6 20. f4 b6 21. Rb3 Rae8 22. Rbh3 Re7 23. R7h6 Nd6 24. Qd2 d4 25. Qd3 Nf7 
+(25. ...Rfe8 26. Kd1 $1 Rxe4 27. Nxe4 Rxe4 28. f5 $1 Qxf5 29. Rxg6+ $1 Qxg6 30. Rg3 $18)
+26. Qb3 $1 d3+ Ke1 $18
