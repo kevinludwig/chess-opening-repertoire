@@ -1068,6 +1068,27 @@
                 ]
             },
             {
+                "name": "Ponziani Opening",
+                "fen": "r1bqkbnr/ppp2ppp/2n5/3pp3/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq - 0 4",
+                "v": [
+                    {
+                        "name": "4. Bb5 dxe4",
+                        "pgn": "ponziani-bb5",
+                        "initial": 7
+                    },
+                    {
+                        "name": "4. Qa4 Bd7",
+                        "pgn": "ponziani-qa4",
+                        "initial": 7
+                    },
+                    {
+                        "name": "4. exd5 Qxd5",
+                        "pgn": "ponziani-exd5",
+                        "initial": 7
+                    }
+                ]
+            },
+            {
                 "name": "English, 2. g3",
                 "fen": "r1bqkb1r/pp1p1ppp/n1p2n2/8/2PQ4/6P1/PP2PPBP/RNB1K1NR w KQkq - 0 6",
                 "v": [
