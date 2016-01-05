@@ -1344,6 +1344,17 @@
                         "initial": 12
                     }
                 ]
+            },
+            {
+                "name": "Polish Opening",
+                "fen": "rnbqk2r/pppp1ppp/5n2/4B3/1b6/8/P1PPPPPP/RN1QKBNR w KQkq - 0 4",
+                "v": [
+                    {
+                        "name": "4. e3",
+                        "pgn": "polish-e3",
+                        "initial": 8
+                    }
+                ]
             }
         ]
     }
