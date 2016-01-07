@@ -943,6 +943,32 @@
                 ]
             },
             {
+                "name": "Bishop's Opening",
+                "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1PP2/8/PPPP2PP/RNBQK1NR w KQkq - 0 4",
+                "v": [
+                    {
+                        "name": "4. d3",
+                        "pgn": "bishops-opening-d3",
+                        "initial": 8
+                    },
+                    {
+                        "name": "4. fxe5",
+                        "pgn": "bishops-opening-fxe5",
+                        "initial": 8
+                    },
+                    {
+                        "name": "4. Nf3",
+                        "pgn": "bishops-opening-nf3",
+                        "initial": 8
+                    },
+                    {
+                        "name": "4. Nc3",
+                        "pgn": "bishops-opening-nc3",
+                        "initial": 8
+                    }
+                ]
+            },
+            {
                 "name": "Center Game",
                 "fen": "r1bqr1k1/pppp1ppp/2n2n2/8/1b2P3/2N1Q3/PPPB1PPP/2KR1BNR w - - 0 8",
                 "v": [
