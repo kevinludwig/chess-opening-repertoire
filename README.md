@@ -23,11 +23,17 @@ Dutch Stonewall (find resource on main line)
 Dutch Classical
 
 ## Black
+
 Vienna Game
 Blackmar-Diemer Gambit
 Stonewall
-Scotch game (find resource)
-Chigorin Nc3 two missing files
+Scotch game (most lines incomplete)
+Chigorin Nc3 two missing files in Nc3 dxc4 line
+Chigorin Veresov missing file
+Evaluations switched to NAGs
+Blackmar-diemer gambit (Kaufman)
+Bird's Opening (Kaufman)
+Larsen/Nimzovich opening (Kaufman)
 
 # NAG symbols reference
 
