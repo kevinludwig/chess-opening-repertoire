@@ -5,12 +5,13 @@ var _ = require('underscore'),
     util = require('../lib/util');
 
 module.exports = function(req, res) {
-    var all = config.repertoire.white.concat(config.repertoire.black);
-    var opening = all.filter(function(o) {
-        return slugify(o.name) === req.params.id;
-    });
-    if (!opening.length) res.send(404);
-    else {
+    var all = config.repertoire.white.concat(config.repertoire.black),
+        opening = all.filter(function(o) {
+            return slugify(o.name) === req.params.id;
+        });
+    if (!opening.length) {
+        res.send(404);
+    } else {
         res.render('list', {
             item: util.toObject(opening[0]),
             initial: 0,

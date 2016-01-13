@@ -11,7 +11,9 @@ function match(list, id) {
                 return;
             }
         });
-        if (g) return;
+        if (g) {
+            return;
+        }
     });
     return g;
 }
@@ -28,13 +30,11 @@ module.exports = function(req, res) {
 
     if (g === null) {
         res.status(404).send('ID not found');
-    }
-    else {
+    } else {
         fs.readFile('./pgn/' + color + '/' + req.params.id + '.pgn', 'utf-8', function(err, data) {
             if (err) {
                 res.status(404).send('PGN not found');
-            }
-            else {
+            } else {
                 res.render('detail', {
                     title: g.name,
                     pgnText: data,

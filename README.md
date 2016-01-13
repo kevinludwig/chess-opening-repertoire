@@ -12,15 +12,22 @@ I'm hosting it here: (http://mco.kevinludwig.rhcloud.com)
 
 # TODO
 
+## White
 QGA early deviations
+Marshall Gambit: add Kaufman analysis
+QGD Exchange: Nh5 look up correct move
+Pirc Bg7 Qd2 0-0 look up move after Rh4
+Benko replace with king walk line with Qe2.
 Dutch Lenningrad (find resource on main line)
 Dutch Stonewall (find resource on main line)
 Dutch Classical
 
+## Black
 Vienna Game
 Blackmar-Diemer Gambit
 Stonewall
 Scotch game (find resource)
+Chigorin Nc3 two missing files
 
 # NAG symbols reference
 
