@@ -5,7 +5,7 @@
 (11. ...b6 12. Bc3 e5 13. Bh5+ g6 14. Bf3 Qf4+ 15. Rd2 Qxc4 16. Ne2 Qxa2 17. Rd6 Rb8 18. Rhd1 Be6 $4 19. Rd7+ $1 Bxd7 20. Rxd7+ {L. Van Wely-M. Krasenkow, Olympiad 2000})
 12. Bd3 Qf4+
 (12. ...Qg4 13. Nf3 Nc5 14. Rhe1 {"white has chances for the pawn"})
-(12. ...Qxg2 13. Ne2 Qxf2 14. Ng3 {"certainly a critical (and untried) choice, although obviously White has a strong initiative -- usually Black players don't go in for these full-on multi-pawn grabs"})
+(12. ...Qxg2 13. Ne2 Qxf2 14. Ng3 $1 Nc5 15. Bc2 Qf4 16. Kb1 Qxc4 17. Ne4 Nxe4 18. Bb3 Nc3+ 19. Ka1 Qxb3 20. axb3 Nxd1 21. Rxd1 Bg4 22. Qxa8 Bxd1 23. Bb4 h5 24. Qxb7+ Kg6 25. Qxc6 Nh6 $13)
 13. Kb1 b6
 (13. ...Nc5 14. Ne2 Qxf2 15. Rhf1 Qxg2 16. Qc7+ Ne7 17. Rg1 Qxg1 18. Rxg1 Nxd3 19. Rxg7+ Kxg7 20. Qxe7+ Kg6 21. Bd8 Rxd8 22. Qxd8 {with a winning bind})
 14. Bc3 $5 Nc5 15. Ne2 Qg4 16. f3 Qe6 17. Bc2 Bb7 18. Qd2 Ne7

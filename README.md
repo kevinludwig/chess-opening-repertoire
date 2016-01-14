@@ -14,9 +14,7 @@ I'm hosting it here: (http://mco.kevinludwig.rhcloud.com)
 
 ## White
 QGA early deviations
-Marshall Gambit: add Kaufman analysis
-QGD Exchange: Nh5 look up correct move
-Pirc Bg7 Qd2 0-0 look up move after Rh4
+QGD Exchange (only bare minimum present)
 Benko replace with king walk line with Qe2.
 Dutch Lenningrad (find resource on main line)
 Dutch Stonewall (find resource on main line)
