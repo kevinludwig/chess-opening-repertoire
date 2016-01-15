@@ -969,6 +969,37 @@
                 ]
             },
             {
+                "name": "Vienna Game",
+                "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3",
+                "v": [
+                    {
+                        "name": "3. f4 d5 4. fxe5 Nxe4 Qf3",
+                        "pgn": "vienna-game-f4-qf3",
+                        "initial": 9
+                    },
+                    {
+                        "name": "3. f4 d5 4. fxe5 Nxe4 5. d3",
+                        "pgn": "vienna-game-f4-d3",
+                        "initial": 9
+                    },
+                    {
+                        "name": 3. f4 d5 4. fxe5 Nxe4 5. Nf3",
+                        "pgn": "vienna-game-f4-nf3",
+                        "initial": 9
+                    },
+                    {
+                        "name": "3. Bc4",
+                        "pgn": "vienna-game-bc4",
+                        "initial": 5
+                    },
+                    {
+                        "name": "3. g3",
+                        "pgn": "vienna-game-g3",
+                        "initial": 5
+                    }
+                ]
+            },
+            {
                 "name": "Center Game",
                 "fen": "r1bqr1k1/pppp1ppp/2n2n2/8/1b2P3/2N1Q3/PPPB1PPP/2KR1BNR w - - 0 8",
                 "v": [

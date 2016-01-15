@@ -1,0 +1,10 @@
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Na5 5. Nge2 c6 $1 6. a4
+(6. 0-0 $6 b5 7. Bb3 b4 8. Nb1 Nxb3 9. axb3 d5 10. Nd2 Bd6 11. Ng3 0-0 12. h3 Be6 $17)
+(6. a3 Nxc4 7. dxc4 Be7 8. Qd3 d6 9. 0-0 Be6 10. Rd1 Qc7 11. Bg5 {otherwise black plays a6 and b5 after castling} h6 $1 12. Bxf6 Bxf6 13. Ng3 g6 $17 {if white takes on d6 black trades queens, expels the rook with Be7 and takes back on c4. if white defends c4 with b3, black defends d6 with Rd8. Black has two bishops vs two knights in either case.})
+6. ...Nxc4 7. dxc4 Bxc5 8. 0-0
+(8. Qd3 d6 9. Be3 Bxe3 10. Qxe3 Qb6 11. Qxb6 axb6 $15 {black has a good bishop and a center pawn vs white's wing pawn})
+8. ...d6 9. Qd3 Be6 10. b3 a5 11. h3
+(11. Be3 Qb6 12. Bxc5 Qxc5 $15 {black's queen is active and unassailable})
+11. ...0-0 12. Kh1 d5 13. cxd5 cxd5 14. Bg5 dxe4 15. Qg3 Be7 16. Qxe5 Rc8 17. Rad1 Qc7 18. Qb5 Qc5 19. Qxc5 Rxc5 20. Nxe4 Rxc2 21. Bxf6 $1
+(21. Nd4 $2 Nxe4 22. Bxe7 Nxf2+ 23. Kg1 Nxd1 24. Rxd1 Rfc8 25. Nxc2 Bxb3 26. Rb1 Bxc2 27. Rxb7 Bxa4 28. Ra7 Rc1+ 29. Kf2 Bc6 30. g4 a4 $19)
+21. ...gxf6 22. Nd4 Rb2 23. g4 Bxb3 24. Nxb3 Rxb3 25. Rd7 Re8 $44
