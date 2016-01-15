@@ -13,25 +13,23 @@ I'm hosting it here: (http://mco.kevinludwig.rhcloud.com)
 # TODO
 
 ## White
-QGA early deviations
-QGD Exchange (only bare minimum present)
-Benko replace with king walk line with Qe2.
-Dutch Lenningrad (find resource on main line)
-Dutch Stonewall (find resource on main line)
-Dutch Classical
+* QGA early deviations
+* QGD Exchange (only bare minimum present)
+* Benko replace with king walk line with Qe2.
+* Dutch Lenningrad (find resource on main line)
+* Dutch Stonewall (find resource on main line)
+* Dutch Classical
 
 ## Black
 
-Vienna Game
-Blackmar-Diemer Gambit
-Stonewall
-Scotch game (most lines incomplete)
-Chigorin Nc3 two missing files in Nc3 dxc4 line
-Chigorin Veresov missing file
-Evaluations switched to NAGs
-Blackmar-diemer gambit (Kaufman)
-Bird's Opening (Kaufman)
-Larsen/Nimzovich opening (Kaufman)
+* Stonewall
+* Scotch game (most lines incomplete)
+* Chigorin Nc3 two missing files in Nc3 dxc4 line
+* Chigorin Veresov missing file
+* Evaluations switched to NAGs
+* Blackmar-diemer gambit (Kaufman)
+* Bird's Opening (Kaufman)
+* Larsen/Nimzovich opening (Kaufman)
 
 # NAG symbols reference
 
