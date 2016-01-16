@@ -1471,6 +1471,27 @@
                         "initial": 10
                     }
                 ]
+            }, 
+            {
+                "name": "Bird's Opening",
+                "fen": "r2qkbnr/pppnpppp/8/3p4/5Pb1/4PN2/PPPP2PP/RNBQKB1R w KQkq - 0 4",
+                "v": [
+                    {
+                        "name": "4. Be2",
+                        "pgn": "birds-be2",
+                        "initial": 8
+                    },
+                    {
+                        "name": "4. h3", 
+                        "pgn": "birds-h3",
+                        "initial": 8
+                    },
+                    {
+                        "name": "4. d4",
+                        "pgn": "birds-d4",
+                        "initial": 8
+                    }
+                ]
             }
         ]
     }
