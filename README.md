@@ -28,7 +28,6 @@ I'm hosting it here: (http://mco.kevinludwig.rhcloud.com)
 * Chigorin Veresov missing file
 * Evaluations switched to NAGs
 * Bird's Opening (Kaufman)
-* Larsen/Nimzovich opening (Kaufman)
 
 # NAG symbols reference
 
