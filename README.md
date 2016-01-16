@@ -27,7 +27,6 @@ I'm hosting it here: (http://mco.kevinludwig.rhcloud.com)
 * Chigorin Nc3 two missing files in Nc3 dxc4 line
 * Chigorin Veresov missing file
 * Evaluations switched to NAGs
-* Blackmar-diemer gambit (Kaufman)
 * Bird's Opening (Kaufman)
 * Larsen/Nimzovich opening (Kaufman)
 

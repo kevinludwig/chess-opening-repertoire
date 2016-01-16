@@ -7,6 +7,129 @@
     "repertoire": {
         "white": [
             {
+                "name": "Nimzo Indian",
+                "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PPQ1PPPP/R1B1KBNR b KQkq - 0 4",
+                "v": [
+                    {
+                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 c5",
+                        "pgn": "nimzo-indian-d5-bxc3-c5",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 dxc4",
+                        "pgn": "nimzo-indian-d5-bxc3-dxc4",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5",
+                        "pgn": "nimzo-indian-d5-bxc3-ne4-c5",
+                        "initial": 14
+                    },
+                    {
+                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 Nc6",
+                        "pgn": "nimzo-indian-d5-bxc3-ne4-nc6",
+                        "initial": 14
+                    },
+                    {
+                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 e5",
+                        "pgn": "nimzo-indian-d5-bxc3-ne4-e5",
+                        "initial": 14
+                    },
+                    {
+                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 0-0",
+                        "pgn": "nimzo-indian-d5-bxc3-ne4-00",
+                        "initial": 14
+                    },
+                    {
+                        "name": "4. ...c5 5. dxc5 Bxc5",
+                        "pgn": "nimzo-indian-c5-bxc5",
+                        "initial": 10
+                    },
+                    {
+                        "name": "4. ...c5 5. dxc5 Na6",
+                        "pgn": "nimzo-indian-c5-na6",
+                        "initial": 10
+                    },
+                    {
+                        "name": "4. ...c5 5. dxc5 Nc6",
+                        "pgn": "nimzo-indian-c5-nc6",
+                        "initial": 10
+                    },
+                    {
+                        "name": "4. ...c5 5. dxc5 0-0",
+                        "pgn": "nimzo-indian-c5-00",
+                        "initial": 10
+                    },
+                    {
+                        "name": "4. ...0-0 5. a3 Bxc3+ 6. Qxc3 Ne4",
+                        "pgn": "nimzo-indian-00-ne4",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. ...0-0 5. a3 Bxc3+ 6. Qxc3 b6",
+                        "pgn": "nimzo-indian-00-b6",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. ...0-0 5. a3 Bxc3+ 6. Qxc3 Qe8",
+                        "pgn": "nimzo-indian-00-qe8",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. ...0-0 5. a3 Bxc3+ 6. Qxc3 b5",
+                        "pgn": "nimzo-indian-00-b5",
+                        "initial": 12
+                    },
+                    {
+                        "name": "4. ...Nc6",
+                        "pgn": "nimzo-indian-nc6",
+                        "initial": 8
+                    }
+                ]
+            },
+            {
+                "name": "Kings Indian Defense",
+                "fen": "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 6",
+                "v": [
+                    {
+                        "name": "6 ...e5 7. 0-0 Nc6 7. d5 Ne7 9. b4 Nh5 10. Re1",
+                        "pgn": "kings-indian-bayonet-nh5",
+                        "initial": 20
+                    },
+                    {
+                        "name": "6. ...e5 7. 0-0 Nc6 8. d5 Ne7 9. b4 a5 10. Ba3",
+                        "pgn": "kings-indian-bayonet-a5",
+                        "initial": 20
+                    },
+                    {
+                        "name": "6. ...e5 7. 0-0 Nc6 8. d5 Ne7 9. b4 Nd7 10. Nd2",
+                        "pgn": "kings-indian-bayonet-nd7",
+                        "initial": 20
+                    },
+                    {
+                        "name": "6. ...e5 7. 0-0 Na6",
+                        "pgn": "kings-indian-na6",
+                        "initial": 14
+                    },
+                    {
+                        "name": "6. ...e5 7. 0-0 exd4",
+                        "pgn": "kings-indian-exd4",
+                        "initial": 14
+                    },
+                    {
+                        "name": "6. ...e5 7. 0-0 Nbd7",
+                        "pgn": "kings-indian-nbd7",
+                        "initial": 14
+                    },
+                    {
+                        "name": "6. ...Bg4",
+                        "pgn": "kings-indian-bg4",
+                        "initial": 12
+                    }
+                ]
+            },
+ 
+            {
                 "name": "Slav Exchange",
                 "fen": "r1bqkb1r/pp2pppp/2n2n2/3p4/3P1B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 0 6",
                 "v": [
@@ -102,6 +225,90 @@
                     }
                 ]
             },
+            {
+                "name": "Benko Gambit Accepted",
+                "fen": "r2qk2r/3nppbp/b2p1np1/2pP4/8/2N2NP1/PP2PPBP/1RBQK2R b Kkq - 0 10",
+                "v": [
+                    {
+                        "name": "10. ...Nb6",
+                        "pgn": "benko-gambit-nb6",
+                        "initial": 20
+                    },
+                    {
+                        "name": "10. ...0-0 11. 0-0 Qa5 12. Bd2 Rfd8",
+                        "pgn": "benko-gambit-qa5-rfb8",
+                        "initial": 24
+                    },
+                    {
+                        "name": "10. ...0-0 11. 0-0 Qa5 12. Bd2 Bb7",
+                        "pgn": "benko-gambit-qa5-bb7",
+                        "initial": 24
+                    },
+                    {
+                        "name": "10. ...0-0 11. 0-0 Qa5 12. Bd2 Nb6",
+                        "pgn": "benko-gambit-qa5-nb6",
+                        "initial": 24
+                    }
+                ]
+            },
+            {
+                "name": "Queen's Gambit Accepted",
+                "fen": "rnbqkb1r/1p3ppp/p3pn2/2p5/3P4/1B2PN2/PP3PPP/RNBQ1RK1 b kq - 0 7",
+                "v": [
+                    {
+                        "name": "7. ...b5",
+                        "pgn": "queens-gambit-accepted-b5",
+                        "initial": 14
+                    },
+                    {
+                        "name": "7. ...Nc6",
+                        "pgn": "queens-gambit-accepted-nc6",
+                        "initial": 14
+                    },
+                    {
+                        "name": "7. ...Nbd7",
+                        "pgn": "queens-gambit-accepted-nbd7",
+                        "initial": 14
+                    },
+                    {
+                        "name": "7. ...b6",
+                        "pgn": "queens-gambit-accepted-b6",
+                        "initial": 14
+                    }
+                ]
+            },
+            {
+                "name": "Marshall Gambit, Semi-Slav",
+                "fen": "rnb1k1nr/pp3ppp/2p1p3/8/1BP1q3/8/PP2BPPP/R2QK1NR b KQkq - 0 8",
+                "v": [
+                    {
+                        "name": "8. ...Qxg2",
+                        "pgn": "marshall-gambit-qxg2",
+                        "initial": 16
+                    },
+                    {
+                        "name": "8. ...Na6",
+                        "pgn": "marshall-gambit-na6",
+                        "initial": 16
+                    },
+                    {
+                        "name": "8. ...Nd7",
+                        "pgn": "marshall-gambit-nd7",
+                        "initial": 16
+                    },
+                    {
+                        "name": "8. ...Ne7",
+                        "pgn": "marshall-gambit-ne7",
+                        "initial": 16
+                    },
+                    {
+                        "name": "8. ...c5",
+                        "pgn": "marshall-gambit-c5",
+                        "initial": 16
+                    }
+                ]
+            },
+ 
             {
                 "name": "Albin Counter Gambit",
                 "fen": "r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5N2/PP1NPPPP/R1BQKB1R b KQkq - 0 5",
@@ -333,128 +540,6 @@
                 ]
             },
             {
-                "name": "Nimzo Indian",
-                "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PPQ1PPPP/R1B1KBNR b KQkq - 0 4",
-                "v": [
-                    {
-                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 c5",
-                        "pgn": "nimzo-indian-d5-bxc3-c5",
-                        "initial": 12
-                    },
-                    {
-                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 dxc4",
-                        "pgn": "nimzo-indian-d5-bxc3-dxc4",
-                        "initial": 12
-                    },
-                    {
-                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5",
-                        "pgn": "nimzo-indian-d5-bxc3-ne4-c5",
-                        "initial": 14
-                    },
-                    {
-                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 Nc6",
-                        "pgn": "nimzo-indian-d5-bxc3-ne4-nc6",
-                        "initial": 14
-                    },
-                    {
-                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 e5",
-                        "pgn": "nimzo-indian-d5-bxc3-ne4-e5",
-                        "initial": 14
-                    },
-                    {
-                        "name": "4. ...d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 0-0",
-                        "pgn": "nimzo-indian-d5-bxc3-ne4-00",
-                        "initial": 14
-                    },
-                    {
-                        "name": "4. ...c5 5. dxc5 Bxc5",
-                        "pgn": "nimzo-indian-c5-bxc5",
-                        "initial": 10
-                    },
-                    {
-                        "name": "4. ...c5 5. dxc5 Na6",
-                        "pgn": "nimzo-indian-c5-na6",
-                        "initial": 10
-                    },
-                    {
-                        "name": "4. ...c5 5. dxc5 Nc6",
-                        "pgn": "nimzo-indian-c5-nc6",
-                        "initial": 10
-                    },
-                    {
-                        "name": "4. ...c5 5. dxc5 0-0",
-                        "pgn": "nimzo-indian-c5-00",
-                        "initial": 10
-                    },
-                    {
-                        "name": "4. ...0-0 5. a3 Bxc3+ 6. Qxc3 Ne4",
-                        "pgn": "nimzo-indian-00-ne4",
-                        "initial": 12
-                    },
-                    {
-                        "name": "4. ...0-0 5. a3 Bxc3+ 6. Qxc3 b6",
-                        "pgn": "nimzo-indian-00-b6",
-                        "initial": 12
-                    },
-                    {
-                        "name": "4. ...0-0 5. a3 Bxc3+ 6. Qxc3 Qe8",
-                        "pgn": "nimzo-indian-00-qe8",
-                        "initial": 12
-                    },
-                    {
-                        "name": "4. ...0-0 5. a3 Bxc3+ 6. Qxc3 b5",
-                        "pgn": "nimzo-indian-00-b5",
-                        "initial": 12
-                    },
-                    {
-                        "name": "4. ...Nc6",
-                        "pgn": "nimzo-indian-nc6",
-                        "initial": 8
-                    }
-                ]
-            },
-            {
-                "name": "Kings Indian Defense",
-                "fen": "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 6",
-                "v": [
-                    {
-                        "name": "6 ...e5 7. 0-0 Nc6 7. d5 Ne7 9. b4 Nh5 10. Re1",
-                        "pgn": "kings-indian-bayonet-nh5",
-                        "initial": 20
-                    },
-                    {
-                        "name": "6. ...e5 7. 0-0 Nc6 8. d5 Ne7 9. b4 a5 10. Ba3",
-                        "pgn": "kings-indian-bayonet-a5",
-                        "initial": 20
-                    },
-                    {
-                        "name": "6. ...e5 7. 0-0 Nc6 8. d5 Ne7 9. b4 Nd7 10. Nd2",
-                        "pgn": "kings-indian-bayonet-nd7",
-                        "initial": 20
-                    },
-                    {
-                        "name": "6. ...e5 7. 0-0 Na6",
-                        "pgn": "kings-indian-na6",
-                        "initial": 14
-                    },
-                    {
-                        "name": "6. ...e5 7. 0-0 exd4",
-                        "pgn": "kings-indian-exd4",
-                        "initial": 14
-                    },
-                    {
-                        "name": "6. ...e5 7. 0-0 Nbd7",
-                        "pgn": "kings-indian-nbd7",
-                        "initial": 14
-                    },
-                    {
-                        "name": "6. ...Bg4",
-                        "pgn": "kings-indian-bg4",
-                        "initial": 12
-                    }
-                ]
-            },
-            {
                 "name": "Baltic Defense",
                 "fen": "rn1qkbnr/ppp1pppp/8/3P4/Q2P4/8/PP2PPPP/RbB1KBNR b KQkq - 0 4",
                 "v": [
@@ -467,89 +552,6 @@
                         "name": "4. ...c6 5. Rxb1 Qxd5",
                         "pgn": "baltic-c6",
                         "initial": 10
-                    }
-                ]
-            },
-            {
-                "name": "Marshall Gambit, Semi-Slav",
-                "fen": "rnb1k1nr/pp3ppp/2p1p3/8/1BP1q3/8/PP2BPPP/R2QK1NR b KQkq - 0 8",
-                "v": [
-                    {
-                        "name": "8. ...Qxg2",
-                        "pgn": "marshall-gambit-qxg2",
-                        "initial": 16
-                    },
-                    {
-                        "name": "8. ...Na6",
-                        "pgn": "marshall-gambit-na6",
-                        "initial": 16
-                    },
-                    {
-                        "name": "8. ...Nd7",
-                        "pgn": "marshall-gambit-nd7",
-                        "initial": 16
-                    },
-                    {
-                        "name": "8. ...Ne7",
-                        "pgn": "marshall-gambit-ne7",
-                        "initial": 16
-                    },
-                    {
-                        "name": "8. ...c5",
-                        "pgn": "marshall-gambit-c5",
-                        "initial": 16
-                    }
-                ]
-            },
-            {
-                "name": "Benko Gambit Accepted",
-                "fen": "r2qk2r/3nppbp/b2p1np1/2pP4/8/2N2NP1/PP2PPBP/1RBQK2R b Kkq - 0 10",
-                "v": [
-                    {
-                        "name": "10. ...Nb6",
-                        "pgn": "benko-gambit-nb6",
-                        "initial": 20
-                    },
-                    {
-                        "name": "10. ...0-0 11. 0-0 Qa5 12. Bd2 Rfd8",
-                        "pgn": "benko-gambit-qa5-rfb8",
-                        "initial": 24
-                    },
-                    {
-                        "name": "10. ...0-0 11. 0-0 Qa5 12. Bd2 Bb7",
-                        "pgn": "benko-gambit-qa5-bb7",
-                        "initial": 24
-                    },
-                    {
-                        "name": "10. ...0-0 11. 0-0 Qa5 12. Bd2 Nb6",
-                        "pgn": "benko-gambit-qa5-nb6",
-                        "initial": 24
-                    }
-                ]
-            },
-            {
-                "name": "Queen's Gambit Accepted",
-                "fen": "rnbqkb1r/1p3ppp/p3pn2/2p5/3P4/1B2PN2/PP3PPP/RNBQ1RK1 b kq - 0 7",
-                "v": [
-                    {
-                        "name": "7. ...b5",
-                        "pgn": "queens-gambit-accepted-b5",
-                        "initial": 14
-                    },
-                    {
-                        "name": "7. ...Nc6",
-                        "pgn": "queens-gambit-accepted-nc6",
-                        "initial": 14
-                    },
-                    {
-                        "name": "7. ...Nbd7",
-                        "pgn": "queens-gambit-accepted-nbd7",
-                        "initial": 14
-                    },
-                    {
-                        "name": "7. ...b6",
-                        "pgn": "queens-gambit-accepted-b6",
-                        "initial": 14
                     }
                 ]
             },
@@ -1409,17 +1411,22 @@
             },
             {
                 "name": "Blackmar-Diemer Gambit",
-                "fen": "r1bqkb1r/pppnpppp/5n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq - 0 5",
+                "fen": "rnbqkb1r/pp2pppp/2p2n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq - 0 5",
                 "v": [
                     {
-                        "name": "5. fxe4 e5 6. dxe5 Nxe5 7. Qxd8+",
-                        "pgn": "blackmar-diemer-gambit-fxe4-e5-dxe5",
-                        "initial": 14
+                        "name": "5. Bc4",
+                        "pgn": "blackmar-diemer-gambit-bc4",
+                        "initial": 10
                     },
                     {
-                        "name": "5. Bf4 e6 6. fxe4 Bb4",
-                        "pgn": "blackmar-diemer-gambit-bf4",
-                        "initial": 12
+                        "name": "5. fxe4",
+                        "pgn": "blackmar-diemer-gambit-fxe4",
+                        "initial": 10
+                    },
+                    {
+                        "name": "5. Be3",
+                        "pgn": "blackmar-diemer-gambit-be3",
+                        "initial": 10
                     }
                 ]
             },
