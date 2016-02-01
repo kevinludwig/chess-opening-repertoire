@@ -128,7 +128,7 @@
                     }
                 ]
             },
- 
+
             {
                 "name": "Slav Exchange",
                 "fen": "r1bqkb1r/pp2pppp/2n2n2/3p4/3P1B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 0 6",
@@ -227,26 +227,31 @@
             },
             {
                 "name": "Benko Gambit Accepted",
-                "fen": "r2qk2r/3nppbp/b2p1np1/2pP4/8/2N2NP1/PP2PPBP/1RBQK2R b Kkq - 0 10",
+                "fen": "r2q1rk1/3nppbp/3p1np1/2pP4/P3P3/2N2NP1/1P3PKP/R1BQ3R b - - 0 12",
                 "v": [
                     {
-                        "name": "10. ...Nb6",
-                        "pgn": "benko-gambit-nb6",
-                        "initial": 20
-                    },
-                    {
-                        "name": "10. ...0-0 11. 0-0 Qa5 12. Bd2 Rfd8",
-                        "pgn": "benko-gambit-qa5-rfb8",
+                        "name": "12. ...Ra6",
+                        "pgn": "benko-gambit-ra6",
                         "initial": 24
                     },
                     {
-                        "name": "10. ...0-0 11. 0-0 Qa5 12. Bd2 Bb7",
-                        "pgn": "benko-gambit-qa5-bb7",
+                        "name": "12. ...Qb6",
+                        "pgn": "benko-gambit-qb6",
                         "initial": 24
                     },
                     {
-                        "name": "10. ...0-0 11. 0-0 Qa5 12. Bd2 Nb6",
-                        "pgn": "benko-gambit-qa5-nb6",
+                        "name": "12. ...Qa5",
+                        "pgn": "benko-gambit-qa5",
+                        "initial": 24
+                    },
+                    {
+                        "name": "12. ...Ne8",
+                        "pgn": "benko-gambit-ne8",
+                        "initial": 24
+                    },
+                    {
+                        "name": "12. ...Ng4",
+                        "pgn": "benko-gambit-ng4",
                         "initial": 24
                     }
                 ]
@@ -308,7 +313,7 @@
                     }
                 ]
             },
- 
+
             {
                 "name": "Albin Counter Gambit",
                 "fen": "r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5N2/PP1NPPPP/R1BQKB1R b KQkq - 0 5",
@@ -1471,7 +1476,7 @@
                         "initial": 10
                     }
                 ]
-            }, 
+            },
             {
                 "name": "Bird's Opening",
                 "fen": "r2qkbnr/pppnpppp/8/3p4/5Pb1/4PN2/PPPP2PP/RNBQKB1R w KQkq - 0 4",
@@ -1482,7 +1487,7 @@
                         "initial": 8
                     },
                     {
-                        "name": "4. h3", 
+                        "name": "4. h3",
                         "pgn": "birds-h3",
                         "initial": 8
                     },
