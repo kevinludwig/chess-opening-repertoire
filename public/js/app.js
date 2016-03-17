@@ -31,11 +31,14 @@ $(document).ready(function() {
         }
     });
 
-    var preview = $('.preview');
     var board = $('#GameBoard');
+    var preview = $('.preview');
     $(window).resize(function() {
         preview.height(preview.width());
         if (board) board.height(board.width());
+    });
+    $('a[data-toggle="tab"]').on('shown.bs.tab', function() {
+        preview = $('.tab-pane.active .preview');
     });
     preview.height(preview.width());
     if (board) board.height(board.width());
