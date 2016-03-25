@@ -1,0 +1,15 @@
+ Play!"]
+[Site "Chess.com"]
+[Date "2016.03.17"]
+[White "lixi"]
+[Black "KevinLudwig"]
+[Result "0-1"]
+[WhiteElo "1721"]
+[BlackElo "1823"]
+[TimeControl "1 in 1 day"]
+[Termination "KevinLudwig won by resignation"]
+
+1.d4 d5 2.c4 Nc6 3.e3 e5 4.dxe5 d4 5.a3 a5 6.Nf3 Bc5 7.exd4 Nxd4 8.Be3 Bg4 9.Nbd2 Nxf3+ 10.gxf3 Bxe3
+ 11.fxe3 Qh4+ 12.Ke2 Be6 13.Qc2 Ne7 14.Rc1 O-O 15.Qe4 Qh5 16.Qf4 Ng6 17.Qg3 Nxe5 18.Rg1 g6 19.Kf2 Rad8 20.Ne4 Kg7
+ 21.Be2 Nd3+ 22.Bxd3 Rxd3 23.Rc2 Rfd8 24.Qxc7 Qh4+ 25.Qg3 Qxg3+ 26.hxg3 Bf5 27.Nc5 Rd2+ 28.Rxd2 Rxd2+ 29.Ke1 Rxb2 30.e4 Bc8
+ 31.Rf1 Rc2 32.Nb3 a4 33.Nc5 Rxc4 34.Nd3 Rc3 35.Kd2 Rxa3 36.Rc1 Bd7 0-1

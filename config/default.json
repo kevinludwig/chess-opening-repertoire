@@ -1153,7 +1153,7 @@
                 ]
             },
             {
-                "name": "English, 2. g3",
+                "name": "English, 2. Nc3 Nf6 3. g3 c6 4. d4",
                 "fen": "r1bqkb1r/pp1p1ppp/n1p2n2/8/2PQ4/6P1/PP2PPBP/RNB1K1NR w KQkq - 0 6",
                 "v": [
                     {
@@ -1165,6 +1165,23 @@
                         "name": "6. Nc3 Bc5 7. Qe5+",
                         "pgn": "english-g3-qe5",
                         "initial": 14
+                    }
+                ]
+            },
+            {
+                "name": "English, 2. Nc3 Nf6 3. g3 c6 4. Bg2 d5",
+                "fen": "rnbqkb1r/pp3ppp/2p2n2/3pp3/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 0 5",
+                "v": [
+                    {
+                        "name": "5. cxd5 cxd5 6. Qb3",
+                        "pgn": "english-g3-d5-qb3",
+                        "initial": 11,
+                        "keygames": [
+                            {
+                                "name": "Joeyp2 - Ludwig, chess.com (2016)",
+                                "pgn": "joeyp2-ludwig-130667892-chesscom"
+                            }
+                        ]
                     }
                 ]
             },
@@ -1358,7 +1375,13 @@
                     {
                         "name": "4. cxd5 Bxf3 5. gxf3",
                         "pgn": "chigorin-defense-nf3-cxd5-gxf3",
-                        "initial": 9
+                        "initial": 9,
+                        "keygames": [
+                            {
+                                "name": "Lixi - Ludwig, chess.com (2016)",
+                                "pgn": "lixi-ludwig-131435692-chesscom"
+                            }
+                        ]
                     }
                 ]
             },
