@@ -1182,6 +1182,21 @@
                                 "pgn": "joeyp2-ludwig-130667892-chesscom"
                             }
                         ]
+                    },
+                    {
+                        "name": "5. cxd5 cxd5 6. d3",
+                        "pgn": "english-g3-d5-d3",
+                        "initial": 11
+                    },
+                    {
+                        "name": 5. cxd5 cxd5 6. d4",
+                        "pgn": "english-g3-d5-d4",
+                        "initial": 11
+                    },
+                    {
+                        "name": 5. cxd5 cxd5 6. e3",
+                        "pgn": "english-g3-d5-e3",
+                        "initial": 11
                     }
                 ]
             },
