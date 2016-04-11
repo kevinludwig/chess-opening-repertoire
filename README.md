@@ -15,7 +15,6 @@ I'm hosting it here: (http://mco.kevinludwig.rhcloud.com)
 ## White
 * QGA early deviations
 * QGD Exchange (only bare minimum present)
-* Benko replace with king walk line with Qe2.
 * Dutch Lenningrad (find resource on main line)
 * Dutch Stonewall (find resource on main line)
 * Dutch Classical
