@@ -25,7 +25,7 @@ I'm hosting it here: (http://mco.kevinludwig.rhcloud.com)
 * Scotch game (most lines incomplete)
 * Chigorin Nc3 two missing files in Nc3 dxc4 line
 * Evaluations switched to NAGs
-
+ 
 # NAG symbols reference
 
 * $1 strong move
