@@ -1,3 +1,5 @@
-1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 a6 7. Rc1 Ne4 8. a3 Bf5 9. e3 e6 10. Qa4 $5 f6 {black wants to keep the knight out of e5} 11. Nxe4 Bxe4 12. Nd2 Bf5 13. Rxc6 $5 bxc6 14. Qc6+ Kf7 15. Bxa6 g5 $1
-(15. ...Be7 $6 16. Bb7 Ra7 17. 0-0 $16)
-16. Bg3 Ra7 $1 17. Nb3 h5 $5 18. h4 gxh4 19. Rxh4 Rg8 $1 $13
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 a6 7. Rc1 Ne4
+    (7. ...Bf5 8. e3 e6 9. Be2 Rc8 10. 0-0 Be7
+        (10. ...Bd6 11. Bxd6 Qxd6 12. Ba4 $14)
+    11. Qb3 Na5 12. Qa4+ Nc6 13. Bxa6 Ra8 14. Bxb7 Rxa4 15. Bxc6+ Kf8 16. Nxa4)
+8. Ne5 Nxc3 9. Rxc3 Bd7 10. Nxc6 Bxc6 11. a3 g6 12. e3 Bg7 13. Be2 0-0 14. 0-0 $10
