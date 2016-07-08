@@ -1,6 +1,6 @@
 1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bb5 Nd7 9. Qa4 Rc8 10. 0-0 a6 11. Bxc6 Rxc6 12. Rfc1 Be7 13. Nd1 $5 b5 14. Qb3 Rc4 15. Nd2 Qa5
-(15. ...g5 16. Bg3 Qa5 17. Nc3 Rb4 18. Qd1 Rxb2 19. e4 exd4 20. a4 $1 {white has clear advantage, according to Shirov})
-(15. ...Rxc1 $5 16. Rxc1 0-0 17. Qc3 b4 $1 18. Qc6 Bd3 19. Qb7 Bb5 $5 20. Rc7 Qe8 21. e4 $1 Bd8 22. Rc8 Qe7 23. Bc7 Bxc7 24. Rxc7 dxe4 25. Nxe4 Qd8 $1 {equal according to Kramnik and Rublevsky})
+(15. ...g5 16. Bg3 Qa5 17. Nc3 Rb4 18. Qd1 Rxb2 19. e4 exd4 20. a4 $1 $16)
+(15. ...Rxc1 $5 16. Rxc1 0-0 17. Qc3 b4 $1 18. Qc6 Bd3 19. Qb7 Bb5 $5 20. Rc7 Qe8 21. e4 $1 Bd8 22. Rc8 Qe7 23. Bc7 Bxc7 24. Rxc7 dxe4 25. Nxe4 Qd8 $1 $10)
 16. Nc3 Rb4
-(16. ...Rc8 $2 17. a4 b4 18. Nxd5 $1 Rxc1+ 19. Rxc1 exd5 20. Rc8+ Bd8 21. Bc7 Qxc7 22. Rxc7 Bxc7 23. Qxd5 {white is winning, according to Shirov})
+(16. ...Rc8 $2 17. a4 b4 18. Nxd5 $1 Rxc1+ 19. Rxc1 exd5 20. Rc8+ Bd8 21. Bc7 Qxc7 22. Rxc7 Bxc7 23. Qxd5 $18)
 17. Nxd5 $1 Rxb3 18. Rc8+ Bd8 19. Bc7 0-0 20. Bxa5 Rb2 21. Rxd8 $10

@@ -1,7 +1,7 @@
 1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bb5 Nd7 9. Qa4 Qb6 10. Nh4 Be4 $1
-(10. ...Bd3 $2 11. Nxd5)
+(10. ...Bd3 $2 11. Nxd5 $16)
 (10. ...Bg6 $2 11. Nxg6 hxg6 12. e4 $1 dxe4
-    (12. ...Bb4 13. exd5 exd5 14. 0-0 Bxc3 15. bxc3 0-0 16. Rab1 {"this turns out well for white"})
-    (12. ...Nf6 13. exd5 exd5 14. 0-0 Be7 15. Rfe1 Kf8 16. Bxc6 $1 bxc6 17. Rxe7 $5 Kxe7 18. Qa3+ {white has a winning attack})
-    13. d5 Nc5 14. dxc6 bxc6 15. Bxc6+ Ke7 16. 0-0-0 $1 Nxa4 17. Rd7+ Ke8 18. Bxa4 {white is winning})
-11. 0-0-0 $1 Rc8 12. f3 Bg6 13. Nxg6 hxg6 14. Kb1 a6 15. Be2 Bb4 16. Rc1 0-0 17. a3 Bxc3 18. Rxc3 e5 19. dxe5 Ncxe5 20. Rhc1 Rxc3 Rxc3 {white has clear advantage}
+    (12. ...Bb4 13. exd5 exd5 14. 0-0 Bxc3 15. bxc3 0-0 16. Rab1 $16)
+    (12. ...Nf6 13. exd5 exd5 14. 0-0 Be7 15. Rfe1 Kf8 16. Bxc6 $1 bxc6 17. Rxe7 $5 Kxe7 18. Qa3+ $18)
+    13. d5 Nc5 14. dxc6 bxc6 15. Bxc6+ Ke7 16. 0-0-0 $1 Nxa4 17. Rd7+ Ke8 18. Bxa4 $18)
+11. 0-0-0 $1 Rc8 12. f3 Bg6 13. Nxg6 hxg6 14. Kb1 a6 15. Be2 Bb4 16. Rc1 0-0 17. a3 Bxc3 18. Rxc3 e5 19. dxe5 Ncxe5 20. Rhc1 Rxc3 Rxc3 $16
