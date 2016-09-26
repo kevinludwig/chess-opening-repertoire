@@ -18,7 +18,7 @@
     ( 9.b4 cxb3 10.axb3 e6 11.Rxa5 Bb4 12.Bxb5+ Bd7 13.Bxd7+ Qxd7 14.Ra4 
     Bxc3+ 15.Ke2 exd5 $10 )
 9...b4 $6 
-    ( 9...g5 $5 )
+    ( 9...g5 $5 10. Bg3 Nh5 11. e6 Nxg3 12. Ne5 (12. ...Bxe6) Bg7 $1 {says Morozevich} 13. Nxf7 Nxh1 14. Nxd8 (14. Qh5) Kxd8 {white is probably winning})
 10.exf6 bxc3 11.bxc3 exf6 12.Qa4+ c6 13.dxc6 Qe7+ 14.Be2 Qa3 15.Qxa3 Bxa3 
 16.O-O $2 
     ( 16.Nd4 Bb2 17.Kd2 Bxa1 18.Rxa1 Be6 19.Rb1 $16 )
