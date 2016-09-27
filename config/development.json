@@ -1,6 +1,3 @@
 {
-    "useCluster": true,
-    "logger": {
-        "level": "debug"
-    }
+    "logLevel": "debug"
 }
