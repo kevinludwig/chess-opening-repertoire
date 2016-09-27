@@ -1,13 +1,13 @@
 {
-    "name":"node-endgame",
+    "name":"node-opening-repertoire",
     "version":"0.0.0",
-    "description":"chess endgames",
+    "description":"chess repertoire",
     "engines": {
         "node": ">=0.10.0"
     },
     "repository": {
         "type": "git",
-        "url": "http://github.com/kevinludwig/jam.git"
+        "url": "http://github.com/kevinludwig/chess-opening-repertoire.git"
     },
     "main": "app.js",
     "dependencies": {

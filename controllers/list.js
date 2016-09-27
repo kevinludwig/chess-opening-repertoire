@@ -1,11 +1,11 @@
 'use strict';
 var _ = require('underscore'),
-    config = require('config'),
+    repertoire = require('../repertoire'),
     slugify = require('../lib/slugify'),
     util = require('../lib/util');
 
 module.exports = function(req, res) {
-    var all = config.repertoire.white.concat(config.repertoire.black),
+    var all = Object.keys(repertoire).reduce(function(acc, k) { return acc.concat(repertoire[k]) }, []),
         opening = all.filter(function(o) {
             return slugify(o.name) === req.params.id;
         });

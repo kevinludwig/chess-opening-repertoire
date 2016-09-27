@@ -1,6 +1,6 @@
 'use strict';
 var fs = require('fs'),
-    config = require('config');
+    repertoire = require('../repertoire');
 
 function match(list, id) {
     var g = null;
@@ -20,18 +20,20 @@ function match(list, id) {
 
 module.exports = function(req, res) {
     var g = null,
-        color = 'white';
+        i,
+        key,
+        keys = ['d4', 'e4e5', 'chigorin', 'english', 'other'];
 
-    g = match(config.repertoire.white, req.params.id);
-    if (!g) {
-        g = match(config.repertoire.black, req.params.id);
-        color = 'black';
+    for (i = 0; i < keys.length; i++) {
+        key = keys[i];
+        g = match(repertoire[key], req.params.id);
+        if (g) break;
     }
 
     if (g === null) {
         res.status(404).send('ID not found');
     } else {
-        fs.readFile('./pgn/' + color + '/' + req.params.id + '.pgn', 'utf-8', function(err, data) {
+        fs.readFile('./pgn/' + key + '/' + req.params.id + '.pgn', 'utf-8', function(err, data) {
             if (err) {
                 res.status(404).send('PGN not found');
             } else {
