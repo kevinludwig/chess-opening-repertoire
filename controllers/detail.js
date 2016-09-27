@@ -1,10 +1,12 @@
 'use strict';
-var fs = require('fs'),
-    repertoire = require('../repertoire');
+const fs = require('fs'),
+      promisify = require('es6-promisify'),
+      repertoire = require('../repertoire'),
+      readFile = promisify(fs.readFile);
 
 function match(list, id) {
-    var g = null;
-    list.forEach(function(opening) {
+    let g = null;
+    list.forEach((opening) => {
         opening.v.forEach(function(v) {
             if (v.pgn === id) {
                 g = v;
@@ -18,32 +20,34 @@ function match(list, id) {
     return g;
 }
 
-module.exports = function(req, res) {
-    var g = null,
+module.exports = function* () {
+    let g = null,
         i,
         key,
         keys = ['d4', 'e4e5', 'chigorin', 'english', 'other'];
 
     for (i = 0; i < keys.length; i++) {
         key = keys[i];
-        g = match(repertoire[key], req.params.id);
+        g = match(repertoire[key], this.params.id);
         if (g) break;
     }
 
     if (g === null) {
-        res.status(404).send('ID not found');
+        this.status = 404;
+        this.body = 'ID not found';
     } else {
-        fs.readFile('./pgn/' + key + '/' + req.params.id + '.pgn', 'utf-8', function(err, data) {
-            if (err) {
-                res.status(404).send('PGN not found');
-            } else {
-                res.render('detail', {
-                    title: g.name,
-                    pgnText: data,
-                    keygames: g.keygames || [],
-                    initial: g.initial
-                });
-            }
-        });
+        try {
+            const data = yield readFile('./pgn/' + key + '/' + this.params.id + '.pgn', 'utf-8');
+            this.render('detail', {
+                title: g.name,
+                pgnText: data,
+                keygames: g.keygames || [],
+                initial: g.initial
+            });
+        } catch (ex) {
+            this.status = 404;
+            this.body = 'PGN not found';
+            return;
+        }
     }
 };

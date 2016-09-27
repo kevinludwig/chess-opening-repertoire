@@ -1,8 +1,9 @@
 'use strict';
+const Router = require('koa-router');
+const router = new Router();
 
-module.exports = function(app) {
-    app.get('/', require('./controllers/index'));
-    app.get('/list/:id', require('./controllers/list'));
-    app.get('/detail/:id', require('./controllers/detail'));
-    app.get('/game/:id', require('./controllers/game'));
-};
+router.get('/', require('./controllers/index'));
+router.get('/list/:id', require('./controllers/list'));
+router.get('/detail/:id', require('./controllers/detail'));
+router.get('/game/:id', require('./controllers/game'));
+module.exports = router.routes();

@@ -1,10 +1,10 @@
 'use strict';
-var _ = require('underscore'),
+const _ = require('underscore'),
     repertoire = require('../repertoire'),
     util = require('../lib/util');
 
-module.exports = function(req, res) {
-    res.render('index', {
+module.exports = function* () {
+    this.render('index', {
         d4: repertoire.d4.map(util.toObject),
         e4e5: repertoire.e4e5.map(util.toObject),
         chigorin: repertoire.chigorin.map(util.toObject),
