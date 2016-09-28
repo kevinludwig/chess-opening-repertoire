@@ -26,8 +26,8 @@ app.use(pug.middleware);
 
 app.use(require('./routes'))
 
-const port = process.env.OPENSHIFT_NODEJS_PORT || config.port,
-    address = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1';
+const port = process.env.NODE_PORT || config.port,
+    address = process.env.NODE_IP || 'localhost';
 
 app.listen(port, address, () => {
     log.info('pid %d listening on port %s:%d', process.pid, address, port);
