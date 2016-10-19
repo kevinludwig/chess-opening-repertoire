@@ -7,6 +7,7 @@ module.exports = function* () {
     this.render('index', {
         d4: repertoire.d4.map(util.toObject),
         e4e5: repertoire.e4e5.map(util.toObject),
+        alekhine: repertoire.alekhine.map(util.toObject),
         chigorin: repertoire.chigorin.map(util.toObject),
         english: repertoire.english.map(util.toObject),
         other: repertoire.other.map(util.toObject),

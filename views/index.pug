@@ -11,6 +11,7 @@ block content
     ul.nav.nav-tabs(role="tablist")
         li.active(role="presentation"): a(href="#d4", aria-controls="d4", role="tab", data-toggle="tab") 1. d4
         li(role="presentation"): a(href="#e4e5", aria-controls="e4e5", role="tab", data-toggle="tab") 1. e4 e5
+        li(role="presentation"): a(href="#alekhine", aria-controls="alekhine", role="tab", data-toggle="tab") Alekhine's Defense
         li(role="presentation"): a(href="#chigorin", aria-controls="chigorin", role="tab", data-toggle="tab") Chigorin
         li(role="presentation"): a(href="#english", aria-controls="english", role="tab", data-toggle="tab") English
         li(role="presentation"): a(href="#other", aria-controls="other", role="tab", data-toggle="tab") Other
@@ -19,6 +20,8 @@ block content
             +tab-content(d4)
         #e4e5.tab-pane(role="tabpanel")
             +tab-content(e4e5)
+        #alekhine.tab-pane(role="tabpanel")
+            +tab-content(alekhine)
         #chigorin.tab-pane(role="tabpanel")
             +tab-content(chigorin)
         #english.tab-pane(role="tabpanel")

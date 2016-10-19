@@ -690,6 +690,71 @@ module.exports = {
             ]
         }
     ],
+    alekhine: [
+        {   
+            name: "2. e5 Miscellaneous",
+            fen: "rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+            v: [
+
+            ]
+        },
+        {
+            name: "Four Pawns Attack, 6. ...Nc6",
+            fen: "r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/8/PP4PP/RNBQKBNR w KQkq - 0 7",
+            v: [
+
+            ]
+        },
+        {
+            name: "Four Pawns Attack, 6. ...c5",
+            fen: "rnbqkb1r/ppp1pppp/1n6/2P1p3/3P1P2/8/PP4PP/RNBQKBNR b KQkq - 0 6",
+            v: [
+
+            ]
+        },
+        {
+            name: "Chase Variation",
+            fen: "rnbqkb1r/pppppppp/8/2PnP3/8/8/PP1P1PPP/RNBQKBNR w KQkq - 0 5",
+            v: [
+
+            ]
+        },
+        {
+            name: "Exchange Variation, 5. ...exd6",
+            fen: "rnbqkb1r/ppp2ppp/1n1p4/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            v: [
+
+            ]
+        },
+        {
+            name: "Modern, 4. ...dxe5 5. Nxe5 c6",
+            fen: "rnbqkb1r/pp2pppp/2p5/3nN3/3P4/8/PPP2PPP/RNBQKB1R w KQkq - 0 6",
+            v: [
+
+            ]
+        }, 
+        {
+            name: "Modern, 4. ...dxe5 5. Nxe5 g6",
+            fen: "rnbqkb1r/ppp1pp1p/6p1/3nN3/3P4/8/PPP2PPP/RNBQKB1R w KQkq - 0 6",
+            v: [
+
+            ]
+        },
+        {
+            name: "Modern, Alburt",
+            fen: "rnbqkb1r/ppp1pp1p/3p2p1/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5",
+            v: [
+
+            ]
+        },
+        {
+            name: "Modern, Flohr-Agzamov",
+            fen: "rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5",
+            v: [
+
+            ]
+        }
+    ],
     e4e5: [
         {
             name: "Evans Gambit",
