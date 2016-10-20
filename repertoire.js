@@ -730,11 +730,6 @@ module.exports = {
                     initial: 20
                 },
                 {
-                    name: "10. Qd4?!",
-                    pgn: "alekhine-4p-c5-qd4",
-                    initial: 20
-                },
-                {
                     name: "10. d6 Nc6",
                     pgn: "alekhine-4p-c5-d6-nc6",
                     initial: 20
