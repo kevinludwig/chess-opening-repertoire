@@ -691,14 +691,7 @@ module.exports = {
         }
     ],
     alekhine: [
-        {   
-            name: "2. e5 Miscellaneous",
-            fen: "rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
-            v: [
-
-            ]
-        },
-        {
+       {
             name: "Four Pawns Attack, 6. ...Nc6",
             fen: "r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/8/PP4PP/RNBQKBNR w KQkq - 0 7",
             v: [
@@ -710,33 +703,38 @@ module.exports = {
             fen: "rnbqkb1r/ppp1pppp/1n6/2P1p3/3P1P2/8/PP4PP/RNBQKBNR b KQkq - 0 6",
             v: [
                 {
+                    name: "7. Be3",
+                    pgn: "alekhine-4p-c5-be3",
+                    initial: 14
+                }
+                {
                     name: "8. d6?",
-                    pgn: "alekhine-4p-c5-d6",
+                    pgn: "alekhine-4p-c5-d5-d6",
                     initial: 16
                 },
                 {
                     name: "10. a3?!",
-                    pgn: "alekhine-4p-c5-a3",
+                    pgn: "alekhine-4p-c5-d5-a3",
                     initial: 20
                 },
                 {
                     name: "10. e6!?", 
-                    pgn: "alekhine-4p-c5-e6",
+                    pgn: "alekhine-4p-c5-d5-e6",
                     initial: 20
                 },
                 {
                     name: "10. Be3!?",
-                    pgn: "alekhine-4p-c5-be3",
+                    pgn: "alekhine-4p-c5-d5-be3",
                     initial: 20
                 },
                 {
                     name: "10. d6 Nc6",
-                    pgn: "alekhine-4p-c5-d6-nc6",
+                    pgn: "alekhine-4p-c5-d5-d6-nc6",
                     initial: 20
                 },
                 {
                     name: "10. Nf3 Bb4",
-                    pgn: "alekhine-4p-c5-nf3-bb4",
+                    pgn: "alekhine-4p-c5-d5-nf3-bb4",
                     initial: 20
                 }
             ]
@@ -779,6 +777,13 @@ module.exports = {
         {
             name: "Modern, Flohr-Agzamov",
             fen: "rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5",
+            v: [
+
+            ]
+        },
+        {   
+            name: "Miscellaneous",
+            fen: "rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
             v: [
 
             ]
