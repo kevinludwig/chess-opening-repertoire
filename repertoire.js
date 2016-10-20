@@ -709,7 +709,41 @@ module.exports = {
             name: "Four Pawns Attack, 6. ...c5",
             fen: "rnbqkb1r/ppp1pppp/1n6/2P1p3/3P1P2/8/PP4PP/RNBQKBNR b KQkq - 0 6",
             v: [
-
+                {
+                    name: "8. d6?",
+                    pgn: "alekhine-4p-c5-d6",
+                    initial: 16
+                },
+                {
+                    name: "10. a3?!",
+                    pgn: "alekhine-4p-c5-a3",
+                    initial: 20
+                },
+                {
+                    name: "10. e6!?", 
+                    pgn: "alekhine-4p-c5-e6",
+                    initial: 20
+                },
+                {
+                    name: "10. Be3!?",
+                    pgn: "alekhine-4p-c5-be3",
+                    initial: 20
+                },
+                {
+                    name: "10. Qd4?!",
+                    pgn: "alekhine-4p-c5-qd4",
+                    initial: 20
+                },
+                {
+                    name: "10. d6 Nc6",
+                    pgn: "alekhine-4p-c5-d6-nc6",
+                    initial: 20
+                },
+                {
+                    name: "10. Nf3 Bb4",
+                    pgn: "alekhine-4p-c5-nf3-bb4",
+                    initial: 20
+                }
             ]
         },
         {

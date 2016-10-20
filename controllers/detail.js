@@ -24,7 +24,7 @@ module.exports = function* () {
     let g = null,
         i,
         key,
-        keys = ['d4', 'e4e5', 'chigorin', 'english', 'other'];
+        keys = Object.keys(repertoire); 
 
     for (i = 0; i < keys.length; i++) {
         key = keys[i];
