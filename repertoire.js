@@ -754,31 +754,36 @@ module.exports = {
             ]
         },
         {
-            name: "Modern, 4. ...dxe5 5. Nxe5 c6",
-            fen: "rnbqkb1r/pp2pppp/2p5/3nN3/3P4/8/PPP2PPP/RNBQKB1R w KQkq - 0 6",
-            v: [
-
-            ]
-        }, 
-        {
-            name: "Modern, 4. ...dxe5 5. Nxe5 g6",
+            name: "Kengis variation",
             fen: "rnbqkb1r/ppp1pp1p/6p1/3nN3/3P4/8/PPP2PPP/RNBQKB1R w KQkq - 0 6",
             v: [
 
             ]
         },
         {
-            name: "Modern, Alburt",
-            fen: "rnbqkb1r/ppp1pp1p/3p2p1/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5",
-            v: [
-
-            ]
-        },
-        {
-            name: "Modern, Flohr-Agzamov",
+            name: "Flohr-Agzamov",
             fen: "rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5",
             v: [
-
+                {
+                    name: "6. 0-0",
+                    pgn: "alekhine-flohr-0-0",
+                    initial: 12
+                },
+                {
+                    name: "6. Ng5 Bf5 7. e6",
+                    pgn: "alekhine-flohr-ng5-e6",
+                    initial: 14
+                },
+                {
+                    name: "6. Ng5 Bf5 7. Bd3",
+                    pgn: "alekhine-flohr-ng5-bd3",
+                    initial: 14
+                }
+                {
+                    name: "6. c4",
+                    pgn: "alekhine-flohr-c4",
+                    initial: 12
+                }
             ]
         },
         {   
