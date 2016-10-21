@@ -743,7 +743,31 @@ module.exports = {
             name: "Chase Variation",
             fen: "rnbqkb1r/pppppppp/8/2PnP3/8/8/PP1P1PPP/RNBQKBNR w KQkq - 0 5",
             v: [
-
+                {
+                    name: "5. Bc4 e6 6. d4",
+                    pgn: "alekhine-chase-bc4-d4",
+                    initial: 12
+                },
+                {
+                    name: "5. Bc4 e6 6. Nc3",
+                    pgn: "alekhine-chase-bc4-nc3",
+                    initial: 12
+                },
+                {
+                    name: "5. Bc4 e6 6. Qg4",
+                    pgn: "alekhine-chase-bc4-qg4",
+                    initial: 12
+                },
+                {
+                    name: "5. Nc3",
+                    pgn: "alekhine-chase-nc3",
+                    initial: 10
+                },
+                {
+                    name: "5. d4",
+                    pgn: "alekhine-chase-d4",
+                    initial: 10
+                }
             ]
         },
         {
