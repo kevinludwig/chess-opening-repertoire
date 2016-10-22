@@ -794,9 +794,14 @@ module.exports = {
                     initial: 12
                 },
                 {
-                    name: "6. Ng5 Bf5 7. e6",
-                    pgn: "alekhine-flohr-ng5-e6",
-                    initial: 14
+                    name: "6. Ng5 Bf5 7. e6 fxe6 8. g4",
+                    pgn: "alekhine-flohr-ng5-e6-g4",
+                    initial: 16
+                },
+                {
+                    name: "6. Ng5 Bf5 7. e6 fxe6 8. Bh5+",
+                    pgn: "alekhine-flohr-ng5-e6-bh5",
+                    initial: 16
                 },
                 {
                     name: "6. Ng5 Bf5 7. Bd3",
