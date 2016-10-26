@@ -774,7 +774,26 @@ module.exports = {
             name: "Exchange Variation, 5. ...exd6",
             fen: "rnbqkb1r/ppp2ppp/1n1p4/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
             v: [
-
+                {
+                    name: "6. Nc3 Be7 7. Bd3",
+                    pgn: "alekhine-exchange-bd3",
+                    initial: 14
+                },
+                {
+                    name: "6. Nc3 Be7 7. Qf3",
+                    pgn: "alekhine-exchange-qf3",
+                    initial: 14
+                },
+                {
+                    name: "6. Nc3 Be7 7. h3",
+                    pgn: "alekhine-exchange-h3",
+                    initial: 14
+                },
+                {
+                    name: "6. Nc3 Be7 7. Nf3",
+                    pgn: 'alekhine-exchange-nf3",
+                    initial: 14
+                }
             ]
         },
         {
