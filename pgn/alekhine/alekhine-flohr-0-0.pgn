@@ -1,1 +1,11 @@
-1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. 0-0 Bxf3 7. Bxf3 dxe5 8. dxe5 e6
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. 0-0 Bxf3 7. Bxf3 dxe5 8. dxe5 e6 9. Nd2 
+    (9. c4)
+    (9. Bg4)
+9. ...Nd7 10. Re1 Qc7 
+    (10. ...Be7 11. Nc4 $1 0-0 12. a4 a5 13. Bd2 Qc7 14. Qe2 {white has the bishop pair, more space, and black lacks counterplay})
+11. Nc4 N7b6 $1 {only move}
+    (11. ...b5 $2 12. Bxd5 cxd5 13. Nd6+ Bxd6 14. Qxd5 $3 Rc8 (14. exd5 exd6+ 15. Kd8 exc7 16. Kxc7 Re7) 15. exd6 Qc4 (15. ...Qc6 $2 16. Rxe6 fxe6 17. Qxe6 Kf8 18. Bg5 Nf6 19. Bxf6 gxf6 20. Qe7 Kg8 21. d7 $18) 16. Qb7 $18 Qc6 17. Qxa7 {Gufeld-Goh, 1991})
+12. Qd4 $5 
+    (12. Nd6+ Bxd6 13. exd6 Qxd6 14. c4 Nxc4 15. Qd4 Ncb6 16. Qxg7 Qf8 $1 17. Qe5 0-0-0 $44)
+12. ...Nxc4 13. Qxc4 0-0-0 {white has the bishops, space, and black lacks counterplay}
+    (13. ...Be7 $5 14. Qg4 g6 15. Bh6 $16)
