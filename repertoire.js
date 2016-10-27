@@ -791,7 +791,7 @@ module.exports = {
                 },
                 {
                     name: "6. Nc3 Be7 7. Nf3",
-                    pgn: 'alekhine-exchange-nf3",
+                    pgn: "alekhine-exchange-nf3",
                     initial: 14
                 }
             ]
