@@ -1,1 +1,13 @@
-1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 e6 6. Nc3
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 e6 6. Nc3 Nxc3 7. dxc3
+    (7. bxc3 d5 8. cxd6 cxd6 9. exd6 Bxd6 10. d4 0-0 11. Nf3 Qc7 $1 12. Qd3 Nd7 13. 0-0 b6 14. Bb3 Bb7 15. h3 e5 $1 $15 {Sergeant-Tartakower, 1945/6})
+7. ...Nc6 8. Bf4 Bxc5 9. Qg4 g5 10. Bxg5 
+    (10. Qxg5 $6 Qxg5 11. Bxg5 Nxe5 12. Bf6 Bxf2 $5 13. Ke2 Nxc4 14. Bxh8 Bxg1 15. Rhxg1 Nxb2 16. Rgf1 b6 $19 {Domino-Delander, 1952})
+10. ...Rg8 11. Bxd8
+    (11. Nf3 $2 Nxe5 12. Bxd8 Rxg4 13. Nxe5 Re4+ $19)
+    (11. f4 $6 Nxe5 12. Qh4 Rxg5 13. fxg5 Nxc4 14. Qxc4 Qxg5 15. Ne2 d6 $1 $15 {"more than adaquate for black"})
+    (11. Nh3 Be7 12. f4 Nxe5 13. fxe5 Bxg5 14. Qh5 Rg7 15. 0-0 Qe7 $1 16. Rf3 b6 17. Rg3 h6 18. Nf2 Qc5 19. Qe2 d6 20. exd6 cxd6 21. Rd1 Bb7 $15 {Angelov-Orev, 1971})
+11. ...Rxg4 12. Be2 Rxg2 13. Bxc7 b6 $1 (13. Rxf2 $5) 14. Nh3 
+    (14. b4 $5 Bxf2+ 15. Kf1 Rxg1+ 16. Kxf2 Rg6 17. Rhg1 Bb7 18. Bh5 Ne7 19. Bxg6 hxg6 $13 {Trapl-Neckar, 1972})
+14. ...Bb7 15. Bf3 Rg8 16. 0-0-0 Na5 $5 17. Rhg1 Ke7 $1 18. Bd6+ Bxd6 19. exd6+ Kf6 20. Bg4 $5 h5 $1 21. Be2 
+    (21. Bxh5 Rxg1 22. Rxg1 Rh8 $17)
+21. ...Rxg1 22. Rxg1 Bc6 23. Nf4 Ke5 24. Nxh5 Kxd6 $15 {Kling-Nederkoorn, corr. 1981/2}
