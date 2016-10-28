@@ -842,6 +842,11 @@ module.exports = {
                     initial: 14
                 },
                 {
+                    name: "6. Ng5 Bf5 7. Bg4",
+                    pgn: "alekhine-flohr-ng5-bg4",
+                    initial: 14
+                },
+                {
                     name: "6. c4",
                     pgn: "alekhine-flohr-c4",
                     initial: 12
