@@ -1,5 +1,9 @@
 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. c4 Nb6 7. Nbd2 
-    (7. Ng5)
-    (7. exd6)
-7. ...N8d7 8. exd6
-    (8. Ng5)
+    (7. Ng5 Bxe2 8. Qxe2 h6 9. Nf3 (9. Ne4 d5) dxe5 10. dxe5 e6 11. 0-0 N8d7 12. Nc3 Qc7 13. Bf4 0-0-0 $14 {Wahls-Westerinen, 1987})
+    (7. exd6 exd6 8. 0-0 Be7 9. Nbd2 $5 0-0 10. Re1 $5 Bf6 $1)
+7. ...N8d7 8. Ng5 
+    (8. exd6 exd6 9. 0-0 Be7 10. Re1 0-0 {transposes to the line above}) 
+8. ...Bf5 9. e6 fxe6 10. g4 
+    (10. Bh5+ g6 11. g4 Bd3 12. Qf3 Nf6 $13) 
+10. ...Bg6 11. Qb3 Qc8 12. Bd3 Bxd3 13. Qxd3 Nf6 14. Qe2 h6 $1 15. Nxe6 Kf7 16. g5 hxg5 17. Nf3 Nh7 18. Nfxg5+ Nxg5 19. Nxg5+ Kg8 20. Ne6 Kf7 $10 {white can repeat moves; playing for more is double-edged} 21. Ng5+ Kg8 22. Qd3 Rh6 $1 23. Be3 Qg4 $1 24. h4 d5 25. b3 dxc4 26. bxc4 e5 27. c5 Nd5 28. dxe5 Re8 29. Qb3 Rxe5 30. Qxb7 Rf6 31. Qb3 Rxf2 $1 {Castro-Garcia, 1990} 
+
