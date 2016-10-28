@@ -800,7 +800,21 @@ module.exports = {
             name: "Kengis variation",
             fen: "rnbqkb1r/ppp1pp1p/6p1/3nN3/3P4/8/PPP2PPP/RNBQKB1R w KQkq - 0 6",
             v: [
-
+                {
+                    name: "6. Bc4",
+                    pgn: "alekhine-kengis-bc4",
+                    initial: 12
+                },
+                {
+                    name: "6. c4",
+                    pgn: "alekhine-kengis-c4",
+                    initial: 12
+                },
+                {
+                    name: "6. Qf3",
+                    pgn: "alekhine-kengis-qf3",
+                    initial: 12
+                }
             ]
         },
         {

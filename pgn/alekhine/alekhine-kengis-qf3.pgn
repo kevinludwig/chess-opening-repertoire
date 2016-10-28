@@ -1,0 +1,8 @@
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 g6 6. Qf3 Be6 7. c4 Nb4 {only move} 8. Qxb7 Qxd4 9. Qxa8 Qxe5+ $1 
+    (9. ...Nc2+ 10. Ke2 Qxe5+ 11. Kd1 Qd4+ 12. Nd2
+        (12. Kxc2 $2 Bf5 13. Kb3 Qb6+ 14. Kc3 Bg7+ 15. Kd2 Bxb2 $19)
+        (12. Bd2 Nxa1 13. Qxb8+ Kd7 14. Qb5+ Kc8 15. Qe8+ Kb7 16. Qb5+ Kc8 {draw by perpetual check})
+    12. ...Nxa1 13. Qxb8+ Kd7 14. Qb5+ 
+        (14. Be2 Bh6 $13) 
+    14. ...Kd8 $5 15. Qb8+ Kd7 16. Qb5+ {draw by perpetual check})
+10. Kd1 N4c6 {keeps the queen out of play} 11. Nc3 Bg7 12. Be3 0-0 13. Qb7 Rd8+ 14. Ke1 Nd4 15. Bd3 Nbc6 $45
